@@ -2,7 +2,7 @@
 title: "Soluções de educação corporativa: o guia para escolher a ideal para sua empresa."
 description: "Soluções de educação corporativa: o guia para escolher a ideal para sua empresa."
 pubDate: "2026-07-13"
-heroImage: "/images/solucoes-de-educacao-corporativa-o-guia-para-escolher-a-ideal-para-sua-empresa.jpg"
+heroImage: "/images/posts/solucoes-de-educacao-corporativa-o-guia-para-escolher-a-ideal-para-sua-empresa.jpg"
 tags:
   - "colchão"
 ---
