@@ -2,7 +2,7 @@
 title: "Impacto da educação na economia: uma análise profunda para o desenvolvimento."
 description: "A educação é a chave para um futuro próspero e sustentável. Descubra como investir em pessoas e transformar a economia!"
 pubDate: "2026-07-13"
-heroImage: "/images/impacto-da-educacao-na-economia-uma-analise-profunda-para-o-desenvolvimento.jpg"
+heroImage: "/images/posts/impacto-da-educacao-na-economia-uma-analise-profunda-para-o-desenvolvimento.jpg"
 tags:
   - "desenvolvimento económico"
   - "educação"
