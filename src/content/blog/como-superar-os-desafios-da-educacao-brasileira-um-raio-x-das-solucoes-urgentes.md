@@ -2,7 +2,7 @@
 title: "Como Superar os Desafios da Educação Brasileira: Um Raio-X das Soluções Urgentes"
 description: "Como Superar os Desafios da Educação Brasileira: Um Raio-X das Soluções Urgentes"
 pubDate: "2026-07-13"
-heroImage: "/images/como-superar-os-desafios-da-educacao-brasileira-um-raio-x-das-solucoes-urgentes.jpg"
+heroImage: "/images/posts/como-superar-os-desafios-da-educacao-brasileira-um-raio-x-das-solucoes-urgentes.jpg"
 tags:
   - "colchão"
 ---
