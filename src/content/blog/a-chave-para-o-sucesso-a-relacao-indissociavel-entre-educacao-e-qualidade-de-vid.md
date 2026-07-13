@@ -2,7 +2,7 @@
 title: "A Chave para o Sucesso: A Relação Indissociável entre Educação e Qualidade de Vida"
 description: "A Chave para o Sucesso: A Relação Indissociável entre Educação e Qualidade de Vida"
 pubDate: "2026-07-13"
-heroImage: "/images/a-chave-para-o-sucesso-a-relacao-indissociavel-entre-educacao-e-qualidade-de-vid.jpg"
+heroImage: "/images/posts/a-chave-para-o-sucesso-a-relacao-indissociavel-entre-educacao-e-qualidade-de-vid.jpg"
 tags:
   - "educação"
   - "qualidade de vida"
