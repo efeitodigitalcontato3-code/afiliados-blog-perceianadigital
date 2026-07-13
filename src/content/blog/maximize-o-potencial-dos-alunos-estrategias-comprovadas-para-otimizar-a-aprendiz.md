@@ -2,7 +2,7 @@
 title: "Maximize o Potencial dos Alunos: Estratégias Comprovadas para Otimizar a Aprendizagem (Ciência por Trás)"
 description: "Maximize o Potencial dos Alunos: Estratégias Comprovadas para Otimizar a Aprendizagem (Ciência por Trás)"
 pubDate: "2026-07-13"
-heroImage: "/images/maximize-o-potencial-dos-alunos-estrategias-comprovadas-para-otimizar-a-aprendiz.jpg"
+heroImage: "/images/posts/maximize-o-potencial-dos-alunos-estrategias-comprovadas-para-otimizar-a-aprendiz.jpg"
 tags:
   - "otimização"
   - "aprendizagem"
