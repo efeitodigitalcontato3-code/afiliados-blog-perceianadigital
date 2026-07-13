@@ -2,7 +2,7 @@
 title: "Decifre os Desafios da Pedagogia: Guia Essencial para Superar Obstáculos em Sala de Aula [Estratégias 2026]"
 description: "Decifre os Desafios da Pedagogia: Guia Essencial para Superar Obstáculos em Sala de Aula [Estratégias 2026]"
 pubDate: "2026-07-13"
-heroImage: "/images/decifre-os-desafios-da-pedagogia-guia-essencial-para-superar-obstaculos-em-sala-.jpg"
+heroImage: "/images/posts/decifre-os-desafios-da-pedagogia-guia-essencial-para-superar-obstaculos-em-sala-.jpg"
 tags:
   - "colchão"
 ---
