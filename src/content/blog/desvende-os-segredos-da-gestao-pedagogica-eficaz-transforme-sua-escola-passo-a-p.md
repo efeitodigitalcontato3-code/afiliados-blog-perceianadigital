@@ -2,7 +2,7 @@
 title: "Desvende os Segredos da Gestão Pedagógica Eficaz: Transforme sua Escola! (Passo a Passo)"
 description: "Desvende os Segredos da Gestão Pedagógica Eficaz: Transforme sua Escola! (Passo a Passo)"
 pubDate: "2026-07-13"
-heroImage: "/images/desvende-os-segredos-da-gestao-pedagogica-eficaz-transforme-sua-escola-passo-a-p.jpg"
+heroImage: "/images/posts/desvende-os-segredos-da-gestao-pedagogica-eficaz-transforme-sua-escola-passo-a-p.jpg"
 tags:
   - "Gestão Pedagógica"
   - "Educação"
