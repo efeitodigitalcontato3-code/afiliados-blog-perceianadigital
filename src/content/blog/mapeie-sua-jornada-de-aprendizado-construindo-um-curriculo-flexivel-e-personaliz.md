@@ -2,7 +2,7 @@
 title: "Mapeie Sua Jornada de Aprendizado: Construindo um Currículo Flexível e Personalizado"
 description: "Mapeie Sua Jornada de Aprendizado: Construindo um Currículo Flexível e Personalizado"
 pubDate: "2026-07-13"
-heroImage: "/images/mapeie-sua-jornada-de-aprendizado-construindo-um-curriculo-flexivel-e-personaliz.jpg"
+heroImage: "/images/posts/mapeie-sua-jornada-de-aprendizado-construindo-um-curriculo-flexivel-e-personaliz.jpg"
 tags:
   - "currículo"
   - "aprendizado"
