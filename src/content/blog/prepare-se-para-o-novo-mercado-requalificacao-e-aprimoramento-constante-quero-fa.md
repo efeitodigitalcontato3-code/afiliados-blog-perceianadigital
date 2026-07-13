@@ -2,7 +2,7 @@
 title: "Prepare-se para o Novo Mercado: Requalificação e Aprimoramento Constante (Quero Fazer)"
 description: "Prepare-se para o Novo Mercado: Requalificação e Aprimoramento Constante (Quero Fazer)"
 pubDate: "2026-07-13"
-heroImage: "/images/prepare-se-para-o-novo-mercado-requalificacao-e-aprimoramento-constante-quero-fa.jpg"
+heroImage: "/images/posts/prepare-se-para-o-novo-mercado-requalificacao-e-aprimoramento-constante-quero-fa.jpg"
 tags:
   - "marketing digital"
   - "afiliados"
