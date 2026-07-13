@@ -2,7 +2,7 @@
 title: "Panorama da educação básica: desafios e promessas para as próximas gerações."
 description: "Panorama da educação básica: desafios e promessas para as próximas gerações."
 pubDate: "2026-07-13"
-heroImage: "/images/panorama-da-educacao-basica-desafios-e-promessas-para-as-proximas-geracoes.jpg"
+heroImage: "/images/posts/panorama-da-educacao-basica-desafios-e-promessas-para-as-proximas-geracoes.jpg"
 tags:
   - "educação"
   - "ensino"
