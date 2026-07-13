@@ -2,7 +2,7 @@
 title: "Dê um Salto no Conhecimento: Plataformas de Cursos Gratuitos com Certificado (Quero Saber)"
 description: "Dê um Salto no Conhecimento: Plataformas de Cursos Gratuitos com Certificado (Quero Saber)"
 pubDate: "2026-07-13"
-heroImage: "/images/de-um-salto-no-conhecimento-plataformas-de-cursos-gratuitos-com-certificado-quer.jpg"
+heroImage: "/images/posts/de-um-salto-no-conhecimento-plataformas-de-cursos-gratuitos-com-certificado-quer.jpg"
 tags:
   - "cursos online"
   - "aprenda online"
