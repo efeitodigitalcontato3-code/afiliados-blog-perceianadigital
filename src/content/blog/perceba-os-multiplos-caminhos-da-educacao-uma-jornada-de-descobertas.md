@@ -2,7 +2,7 @@
 title: "Perceba os múltiplos caminhos da educação: uma jornada de descobertas."
 description: "Perceba os múltiplos caminhos da educação: uma jornada de descobertas."
 pubDate: "2026-07-13"
-heroImage: "/images/perceba-os-multiplos-caminhos-da-educacao-uma-jornada-de-descobertas.jpg"
+heroImage: "/images/posts/perceba-os-multiplos-caminhos-da-educacao-uma-jornada-de-descobertas.jpg"
 tags:
   - "educação"
   - "online"
