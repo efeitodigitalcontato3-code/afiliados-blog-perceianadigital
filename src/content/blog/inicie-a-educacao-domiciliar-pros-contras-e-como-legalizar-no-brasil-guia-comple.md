@@ -2,7 +2,7 @@
 title: "Inicie a Educação Domiciliar: Prós, Contras e Como Legalizar no Brasil (Guia Completo)"
 description: "Inicie a Educação Domiciliar: Prós, Contras e Como Legalizar no Brasil (Guia Completo)"
 pubDate: "2026-07-13"
-heroImage: "/images/inicie-a-educacao-domiciliar-pros-contras-e-como-legalizar-no-brasil-guia-comple.jpg"
+heroImage: "/images/posts/inicie-a-educacao-domiciliar-pros-contras-e-como-legalizar-no-brasil-guia-comple.jpg"
 tags:
   - "colchão"
 ---
