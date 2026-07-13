@@ -2,7 +2,7 @@
 title: "Evasão escolar no Brasil: entendendo as causas e buscando soluções."
 description: "Evasão escolar no Brasil: entendendo as causas e buscando soluções."
 pubDate: "2026-07-13"
-heroImage: "/images/evasao-escolar-no-brasil-entendendo-as-causas-e-buscando-solucoes.jpg"
+heroImage: "/images/posts/evasao-escolar-no-brasil-entendendo-as-causas-e-buscando-solucoes.jpg"
 tags:
   - "evasão escolar"
   - "educação"
