@@ -2,7 +2,7 @@
 title: "Currículo escolar: como ele se alinha (ou não) com as demandas do mercado?"
 description: "Currículo escolar: como ele se alinha (ou não) com as demandas do mercado?"
 pubDate: "2026-07-13"
-heroImage: "/images/curriculo-escolar-como-ele-se-alinha-ou-nao-com-as-demandas-do-mercado.jpg"
+heroImage: "/images/posts/curriculo-escolar-como-ele-se-alinha-ou-nao-com-as-demandas-do-mercado.jpg"
 tags:
   - "currículo"
   - "mercado"
