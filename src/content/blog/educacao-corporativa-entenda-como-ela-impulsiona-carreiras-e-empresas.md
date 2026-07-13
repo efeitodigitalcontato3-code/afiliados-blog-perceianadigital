@@ -2,7 +2,7 @@
 title: "Educação corporativa: entenda como ela impulsiona carreiras e empresas."
 description: "Educação corporativa: entenda como ela impulsiona carreiras e empresas."
 pubDate: "2026-07-13"
-heroImage: "/images/educacao-corporativa-entenda-como-ela-impulsiona-carreiras-e-empresas.jpg"
+heroImage: "/images/posts/educacao-corporativa-entenda-como-ela-impulsiona-carreiras-e-empresas.jpg"
 tags:
   - "educação corporativa"
   - "treinamento profissional"
