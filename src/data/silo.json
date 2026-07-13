@@ -1,0 +1,84 @@
+{
+  "categories": [
+    {
+      "name": "Desenvolvimento Infantil Abrangente",
+      "slug": "desenvolvimento-infantil-abrangente",
+      "description": "Explore os pilares do desenvolvimento infantil, desde os marcos essenciais até os aspectos cognitivos e emocionais, com uma abordagem que une afeto e ciência para pais e educadores. Descubra como cada fase da infância é crucial para o aprendizado e a criatividade.",
+      "subcategories": [
+        {
+          "name": "Compreendendo o Universo Infantil",
+          "slug": "compreendendo-universo-infantil",
+          "description": "Mergulhe nos fundamentos do desenvolvimento infantil, explorando a complexidade e a beleza de cada fase, com uma abordagem que une afeto e ciência para desvendar o mundo da infância.",
+          "articles": [
+            {
+              "title": "Bem-vindos ao Perceiana Digital: Desvendando o Mundo da Infância com Afeto e Ciência",
+              "slug": "primeiro-post"
+            }
+          ]
+        },
+        {
+          "name": "Marcos e Fases do Desenvolvimento",
+          "slug": "marcos-fases-desenvolvimento",
+          "description": "Entenda as etapas cruciais do crescimento infantil, desde o nascimento até a pré-adolescência, com guias práticos para acompanhar cada fase do desenvolvimento físico, social e cognitivo.",
+          "articles": []
+        },
+        {
+          "name": "Aspectos Cognitivos e Emocionais",
+          "slug": "aspectos-cognitivos-emocionais",
+          "description": "Explore como a mente e as emoções das crianças se desenvolvem, com dicas de pedagogia para estimular o raciocínio, a inteligência emocional e a resiliência no dia a dia.",
+          "articles": []
+        }
+      ]
+    },
+    {
+      "name": "Pedagogia e Aprendizado Lúdico",
+      "slug": "pedagogia-aprendizado-ludico",
+      "description": "Descubra dicas de pedagogia inovadoras e estratégias eficazes para incentivar o aprendizado e a criatividade das crianças através de métodos lúdicos e engajadores, transformando o dia a dia em uma jornada de descobertas.",
+      "subcategories": [
+        {
+          "name": "Estratégias Pedagógicas para Pais",
+          "slug": "estrategias-pedagogicas-pais",
+          "description": "Aprenda métodos e abordagens pedagógicas eficazes para aplicar em casa, transformando o dia a dia em oportunidades de aprendizado e desenvolvimento infantil significativo.",
+          "articles": []
+        },
+        {
+          "name": "Incentivo ao Aprendizado no Dia a Dia",
+          "slug": "incentivo-aprendizado-dia-a-dia",
+          "description": "Dicas práticas e fáceis de integrar na rotina para despertar a curiosidade, o interesse e a paixão pelo conhecimento, incentivando o aprendizado e a criatividade das crianças.",
+          "articles": []
+        },
+        {
+          "name": "Educação Positiva e Disciplina Consciente",
+          "slug": "educacao-positiva-disciplina-consciente",
+          "description": "Aprenda a educar com afeto e firmeza, construindo um ambiente familiar de respeito, cooperação e desenvolvimento de habilidades sociais e emocionais na infância.",
+          "articles": []
+        }
+      ]
+    },
+    {
+      "name": "Atividades Criativas e Educativas",
+      "slug": "atividades-criativas-educativas",
+      "description": "Encontre um universo de atividades educativas e criativas para crianças, com ideias práticas que incentivam o aprendizado, a imaginação e o desenvolvimento infantil no dia a dia, de forma divertida e engajadora.",
+      "subcategories": [
+        {
+          "name": "Brincadeiras que Estimulam a Criatividade",
+          "slug": "brincadeiras-estimulam-criatividade",
+          "description": "Ideias de brincadeiras e jogos que libertam a imaginação, promovem a inovação e desenvolvem o pensamento criativo em todas as idades, incentivando a criatividade das crianças.",
+          "articles": []
+        },
+        {
+          "name": "Atividades Educativas por Faixa Etária",
+          "slug": "atividades-educativas-faixa-etaria",
+          "description": "Encontre sugestões de atividades educativas adequadas para cada fase do desenvolvimento infantil, garantindo diversão e aprendizado sob medida para o dia a dia das crianças.",
+          "articles": []
+        },
+        {
+          "name": "Projetos DIY e Artes Manuais Infantis",
+          "slug": "projetos-diy-artes-manuais-infantis",
+          "description": "Inspire-se com projetos 'faça você mesmo' e atividades artísticas que desenvolvem a coordenação motora, a expressão e a autonomia, incentivando a criatividade e o aprendizado das crianças.",
+          "articles": []
+        }
+      ]
+    }
+  ]
+}
