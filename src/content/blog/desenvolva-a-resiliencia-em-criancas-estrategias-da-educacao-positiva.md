@@ -2,7 +2,7 @@
 title: "Desenvolva a Resiliência em Crianças: Estratégias da Educação Positiva"
 description: "Desenvolva a Resiliência em Crianças: Estratégias da Educação Positiva"
 pubDate: "2026-07-13"
-heroImage: "/images/desenvolva-a-resiliencia-em-criancas-estrategias-da-educacao-positiva.jpg"
+heroImage: "/images/posts/desenvolva-a-resiliencia-em-criancas-estrategias-da-educacao-positiva.jpg"
 tags:
   - "educação positiva"
   - "resiliência"
