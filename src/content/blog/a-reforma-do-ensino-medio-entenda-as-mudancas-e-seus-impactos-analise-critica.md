@@ -2,7 +2,7 @@
 title: "A Reforma do Ensino Médio: Entenda as Mudanças e Seus Impactos (Análise Crítica)"
 description: "A Reforma do Ensino Médio: Entenda as Mudanças e Seus Impactos (Análise Crítica)"
 pubDate: "2026-07-13"
-heroImage: "/images/a-reforma-do-ensino-medio-entenda-as-mudancas-e-seus-impactos-analise-critica.jpg"
+heroImage: "/images/posts/a-reforma-do-ensino-medio-entenda-as-mudancas-e-seus-impactos-analise-critica.jpg"
 tags:
   - "reforma_do_ensino_medio"
   - "ensino_medio"
