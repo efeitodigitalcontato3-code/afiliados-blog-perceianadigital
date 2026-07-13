@@ -2,7 +2,7 @@
 title: "Educação de Qualidade para Todos: Um Sonho Possível ou Utopia?"
 description: "Imagine um mundo onde a qualidade da educação é acessível a todos. Uma oportunidade para crescer, aprender e construir um futuro brilhante para cada indivíduo. Esse sonho pode se tornar realidade, e nós estamos aqui para te ajudar a trilhar esse caminho."
 pubDate: "2026-07-13"
-heroImage: "/images/educacao-de-qualidade-para-todos-um-sonho-possivel-ou-utopia.jpg"
+heroImage: "/images/posts/educacao-de-qualidade-para-todos-um-sonho-possivel-ou-utopia.jpg"
 tags:
   - "colchão"
 ---
