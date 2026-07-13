@@ -2,7 +2,7 @@
 title: "Vislumbre o impacto da educação socioemocional no desenvolvimento infantil."
 description: "Vislumbre o impacto da educação socioemocional no desenvolvimento infantil."
 pubDate: "2026-07-13"
-heroImage: "/images/posts/vislumbre-o-impacto-da-educacao-socioemocional-no-desenvolvimento-infantil.jpg"
+heroImage: "/images/vislumbre-o-impacto-da-educacao-socioemocional-no-desenvolvimento-infantil.jpg"
 tags:
   - "educação socioemocional"
   - "desenvolvimento infantil"

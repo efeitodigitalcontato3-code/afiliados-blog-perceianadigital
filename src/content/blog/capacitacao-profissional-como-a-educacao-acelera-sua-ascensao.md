@@ -2,7 +2,7 @@
 title: "Capacitação profissional: como a educação acelera sua ascensão."
 description: "Capacitação profissional: como a educação acelera sua ascensão."
 pubDate: "2026-07-13"
-heroImage: "/images/posts/capacitacao-profissional-como-a-educacao-acelera-sua-ascensao.jpg"
+heroImage: "/images/capacitacao-profissional-como-a-educacao-acelera-sua-ascensao.jpg"
 tags:
   - "capacitação profissional"
   - "educação"

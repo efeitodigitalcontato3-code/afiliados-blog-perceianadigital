@@ -2,7 +2,7 @@
 title: "Guie a jornada de aprendizado do seu filho com estratégias eficazes."
 description: "Guie a jornada de aprendizado do seu filho com estratégias eficazes."
 pubDate: "2026-07-13"
-heroImage: "/images/posts/guie-a-jornada-de-aprendizado-do-seu-filho-com-estrategias-eficazes.jpg"
+heroImage: "/images/guie-a-jornada-de-aprendizado-do-seu-filho-com-estrategias-eficazes.jpg"
 tags:
   - "aprendizagem infantil"
   - "educação"

@@ -2,7 +2,7 @@
 title: "Mentalidade de crescimento: como a educação pode reprogramar seu cérebro."
 description: "Mentalidade de crescimento: como a educação pode reprogramar seu cérebro."
 pubDate: "2026-07-13"
-heroImage: "/images/posts/mentalidade-de-crescimento-como-a-educacao-pode-reprogramar-seu-cerebro.jpg"
+heroImage: "/images/mentalidade-de-crescimento-como-a-educacao-pode-reprogramar-seu-cerebro.jpg"
 tags:
   - "educação"
   - "autoconhecimento"

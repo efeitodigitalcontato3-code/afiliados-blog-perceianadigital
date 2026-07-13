@@ -2,7 +2,7 @@
 title: "Soluções criativas para a falta de infraestrutura nas escolas brasileiras."
 description: "Soluções criativas para a falta de infraestrutura nas escolas brasileiras."
 pubDate: "2026-07-13"
-heroImage: "/images/posts/solucoes-criativas-para-a-falta-de-infraestrutura-nas-escolas-brasileiras.jpg"
+heroImage: "/images/solucoes-criativas-para-a-falta-de-infraestrutura-nas-escolas-brasileiras.jpg"
 tags:
   - "infraestrutura escolar"
   - "educação"

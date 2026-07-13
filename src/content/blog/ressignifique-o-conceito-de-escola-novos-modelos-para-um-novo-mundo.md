@@ -2,7 +2,7 @@
 title: "Ressignifique o conceito de escola: novos modelos para um novo mundo."
 description: "Ressignifique o conceito de escola: novos modelos para um novo mundo."
 pubDate: "2026-07-13"
-heroImage: "/images/posts/ressignifique-o-conceito-de-escola-novos-modelos-para-um-novo-mundo.jpg"
+heroImage: "/images/ressignifique-o-conceito-de-escola-novos-modelos-para-um-novo-mundo.jpg"
 tags:
   - "colchão"
 ---
