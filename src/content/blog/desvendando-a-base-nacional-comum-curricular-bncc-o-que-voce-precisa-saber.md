@@ -2,7 +2,7 @@
 title: "Desvendando a Base Nacional Comum Curricular (BNCC): O Que Você Precisa Saber"
 description: "Desvendando a Base Nacional Comum Curricular (BNCC): O Que Você Precisa Saber"
 pubDate: "2026-07-13"
-heroImage: "/images/desvendando-a-base-nacional-comum-curricular-bncc-o-que-voce-precisa-saber.jpg"
+heroImage: "/images/posts/desvendando-a-base-nacional-comum-curricular-bncc-o-que-voce-precisa-saber.jpg"
 tags:
   - "BNCC"
   - "Educação Brasileira"
