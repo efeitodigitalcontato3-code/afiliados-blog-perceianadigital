@@ -2,7 +2,7 @@
 title: "Compreenda a Avaliação Educacional: Além das Notas, o Que Medimos De Fato?"
 description: "Compreenda a Avaliação Educacional: Além das Notas, o Que Medimos De Fato?"
 pubDate: "2026-07-13"
-heroImage: "/images/compreenda-a-avaliacao-educacional-alem-das-notas-o-que-medimos-de-fato.jpg"
+heroImage: "/images/posts/compreenda-a-avaliacao-educacional-alem-das-notas-o-que-medimos-de-fato.jpg"
 tags:
   - "avaliação"
   - "educação"
