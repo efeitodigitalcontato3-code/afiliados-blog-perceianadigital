@@ -2,7 +2,7 @@
 title: "A Importância da Leitura para o Desenvolvimento Cognitivo e Emocional"
 description: "A Importância da Leitura para o Desenvolvimento Cognitivo e Emocional"
 pubDate: "2026-07-13"
-heroImage: "/images/a-importancia-da-leitura-para-o-desenvolvimento-cognitivo-e-emocional.jpg"
+heroImage: "/images/posts/a-importancia-da-leitura-para-o-desenvolvimento-cognitivo-e-emocional.jpg"
 tags:
   - "leitura"
   - "desenvolvimento"
