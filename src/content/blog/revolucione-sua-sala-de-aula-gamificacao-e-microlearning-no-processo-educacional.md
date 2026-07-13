@@ -2,7 +2,7 @@
 title: "Revolucione sua Sala de Aula: Gamificação e Microlearning no Processo Educacional"
 description: "Revolucione sua Sala de Aula: Gamificação e Microlearning no Processo Educacional"
 pubDate: "2026-07-13"
-heroImage: "/images/revolucione-sua-sala-de-aula-gamificacao-e-microlearning-no-processo-educacional.jpg"
+heroImage: "/images/posts/revolucione-sua-sala-de-aula-gamificacao-e-microlearning-no-processo-educacional.jpg"
 tags:
   - "gamificação"
   - "microlearning"
