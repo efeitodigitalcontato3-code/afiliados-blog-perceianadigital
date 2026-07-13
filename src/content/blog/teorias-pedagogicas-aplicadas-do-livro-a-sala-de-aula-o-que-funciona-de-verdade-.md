@@ -2,7 +2,7 @@
 title: "Teorias Pedagógicas Aplicadas: Do Livro à Sala de Aula, o Que Funciona de Verdade [Guia Prático]"
 description: "Teorias Pedagógicas Aplicadas: Do Livro à Sala de Aula, o Que Funciona de Verdade [Guia Prático]"
 pubDate: "2026-07-13"
-heroImage: "/images/teorias-pedagogicas-aplicadas-do-livro-a-sala-de-aula-o-que-funciona-de-verdade-.jpg"
+heroImage: "/images/posts/teorias-pedagogicas-aplicadas-do-livro-a-sala-de-aula-o-que-funciona-de-verdade-.jpg"
 tags:
   - "pedagogia"
   - "ensino"
