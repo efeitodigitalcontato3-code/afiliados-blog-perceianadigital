@@ -2,7 +2,7 @@
 title: "Potencialize o Pensamento Crítico: Estratégias para Formar Cidadãos Mais Atuantes"
 description: "Potencialize o Pensamento Crítico: Estratégias para Formar Cidadãos Mais Atuantes"
 pubDate: "2026-07-13"
-heroImage: "/images/potencialize-o-pensamento-critico-estrategias-para-formar-cidadaos-mais-atuantes.jpg"
+heroImage: "/images/posts/potencialize-o-pensamento-critico-estrategias-para-formar-cidadaos-mais-atuantes.jpg"
 tags:
   - "pensamento crítico"
   - "educação"
