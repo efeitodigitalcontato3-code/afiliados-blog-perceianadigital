@@ -2,7 +2,7 @@
 title: "Aplique metodologias ativas em sala de aula: um guia prático para professores inovadores."
 description: "Aplique metodologias ativas em sala de aula: um guia prático para professores inovadores."
 pubDate: "2026-07-13"
-heroImage: "/images/aplique-metodologias-ativas-em-sala-de-aula-um-guia-pratico-para-professores-ino.jpg"
+heroImage: "/images/posts/aplique-metodologias-ativas-em-sala-de-aula-um-guia-pratico-para-professores-ino.jpg"
 tags:
   - "educação"
   - "ensino"
