@@ -2,7 +2,7 @@
 title: "Financiamento Estudantil: Opções e Dicas para Não Comprometer Seu Futuro (Quero Comprar)"
 description: "Financiamento Estudantil: Opções e Dicas para Não Comprometer Seu Futuro (Quero Comprar)"
 pubDate: "2026-07-13"
-heroImage: "/images/financiamento-estudantil-opcoes-e-dicas-para-nao-comprometer-seu-futuro-quero-co.jpg"
+heroImage: "/images/posts/financiamento-estudantil-opcoes-e-dicas-para-nao-comprometer-seu-futuro-quero-co.jpg"
 tags:
   - "financiamento"
   - "estudante"
