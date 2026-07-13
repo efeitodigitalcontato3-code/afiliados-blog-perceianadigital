@@ -2,7 +2,7 @@
 title: "Importância da educação: as 7 razões pelas quais ela molda seu futuro e o mundo."
 description: "Importância da educação: as 7 razões pelas quais ela molda seu futuro e o mundo."
 pubDate: "2026-07-13"
-heroImage: "/images/importancia-da-educacao-as-7-razoes-pelas-quais-ela-molda-seu-futuro-e-o-mundo.jpg"
+heroImage: "/images/posts/importancia-da-educacao-as-7-razoes-pelas-quais-ela-molda-seu-futuro-e-o-mundo.jpg"
 tags:
   - "educação"
   - "aprendizagem"
