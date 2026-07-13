@@ -2,7 +2,7 @@
 title: "Bolsas de Estudo: Como Conquistar a Oportunidade Perfeita para Seus Estudos (Quero Saber)"
 description: "Bolsas de Estudo: Como Conquistar a Oportunidade Perfeita para Seus Estudos (Quero Saber)"
 pubDate: "2026-07-13"
-heroImage: "/images/bolsas-de-estudo-como-conquistar-a-oportunidade-perfeita-para-seus-estudos-quero.jpg"
+heroImage: "/images/posts/bolsas-de-estudo-como-conquistar-a-oportunidade-perfeita-para-seus-estudos-quero.jpg"
 tags:
   - "bolsa_de_estudo"
   - "organização"
