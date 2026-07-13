@@ -2,7 +2,7 @@
 title: "O Impacto da Inteligência Emocional na Performance Acadêmica e Pessoal"
 description: "O Impacto da Inteligência Emocional na Performance Acadêmica e Pessoal"
 pubDate: "2026-07-13"
-heroImage: "/images/o-impacto-da-inteligencia-emocional-na-performance-academica-e-pessoal.jpg"
+heroImage: "/images/posts/o-impacto-da-inteligencia-emocional-na-performance-academica-e-pessoal.jpg"
 tags:
   - "inteligência emocional"
   - "performance acadêmica"
