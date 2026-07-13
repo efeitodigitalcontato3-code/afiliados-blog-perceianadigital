@@ -2,7 +2,7 @@
 title: "Formação de professores: a chave para transformar o cenário educacional brasileiro."
 description: "A formação de professores é fundamental para construir um sistema educacional sólido e eficaz no Brasil. Descubra como investir em profissionais qualificados e impulsionar o futuro da educação."
 pubDate: "2026-07-13"
-heroImage: "/images/formacao-de-professores-a-chave-para-transformar-o-cenario-educacional-brasileir.jpg"
+heroImage: "/images/posts/formacao-de-professores-a-chave-para-transformar-o-cenario-educacional-brasileir.jpg"
 tags:
   - "colchão"
 ---
