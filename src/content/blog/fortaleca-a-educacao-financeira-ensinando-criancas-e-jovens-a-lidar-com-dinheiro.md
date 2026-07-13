@@ -2,7 +2,7 @@
 title: "Fortaleça a Educação Financeira: Ensinando Crianças e Jovens a Lidar com Dinheiro"
 description: "Fortaleça a Educação Financeira: Ensinando Crianças e Jovens a Lidar com Dinheiro"
 pubDate: "2026-07-13"
-heroImage: "/images/fortaleca-a-educacao-financeira-ensinando-criancas-e-jovens-a-lidar-com-dinheiro.jpg"
+heroImage: "/images/posts/fortaleca-a-educacao-financeira-ensinando-criancas-e-jovens-a-lidar-com-dinheiro.jpg"
 tags:
   - "educação financeira"
   - "finanças para crianças"
