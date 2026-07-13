@@ -2,7 +2,7 @@
 title: "Tecnologia educacional: investimento essencial ou gasto desnecessário?"
 description: "Tecnologia educacional: investimento essencial ou gasto desnecessário?"
 pubDate: "2026-07-13"
-heroImage: "/images/tecnologia-educacional-investimento-essencial-ou-gasto-desnecessario.jpg"
+heroImage: "/images/posts/tecnologia-educacional-investimento-essencial-ou-gasto-desnecessario.jpg"
 tags:
   - "colchão"
 ---
