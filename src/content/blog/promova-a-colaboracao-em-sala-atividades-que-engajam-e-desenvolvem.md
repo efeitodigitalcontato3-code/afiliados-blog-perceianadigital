@@ -2,7 +2,7 @@
 title: "Promova a colaboração em sala: atividades que engajam e desenvolvem."
 description: "Promova a colaboração em sala: atividades que engajam e desenvolvem."
 pubDate: "2026-07-13"
-heroImage: "/images/promova-a-colaboracao-em-sala-atividades-que-engajam-e-desenvolvem.jpg"
+heroImage: "/images/posts/promova-a-colaboracao-em-sala-atividades-que-engajam-e-desenvolvem.jpg"
 tags:
   - "colaboração"
   - "trabalho em equipe"
