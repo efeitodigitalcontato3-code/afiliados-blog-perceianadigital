@@ -2,7 +2,7 @@
 title: "Educação inclusiva: o que significa na prática e por que é vital para todos."
 description: "Educação inclusiva: o que significa na prática e por que é vital para todos."
 pubDate: "2026-07-13"
-heroImage: "/images/educacao-inclusiva-o-que-significa-na-pratica-e-por-que-e-vital-para-todos.jpg"
+heroImage: "/images/posts/educacao-inclusiva-o-que-significa-na-pratica-e-por-que-e-vital-para-todos.jpg"
 tags:
   - "inclusão"
   - "educação"
