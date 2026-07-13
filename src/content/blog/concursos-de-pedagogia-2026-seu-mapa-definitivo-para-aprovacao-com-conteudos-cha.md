@@ -2,7 +2,7 @@
 title: "Concursos de Pedagogia 2026: Seu Mapa Definitivo para Aprovação (Com Conteúdos Chave)"
 description: "Concursos de Pedagogia 2026: Seu Mapa Definitivo para Aprovação (Com Conteúdos Chave)"
 pubDate: "2026-07-13"
-heroImage: "/images/concursos-de-pedagogia-2026-seu-mapa-definitivo-para-aprovacao-com-conteudos-cha.jpg"
+heroImage: "/images/posts/concursos-de-pedagogia-2026-seu-mapa-definitivo-para-aprovacao-com-conteudos-cha.jpg"
 tags:
   - "pedagogia"
   - "concursos"
