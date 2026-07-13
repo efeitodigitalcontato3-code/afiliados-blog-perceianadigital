@@ -2,7 +2,7 @@
 title: "Pedagogias alternativas: elas são a solução para os problemas da educação?"
 description: "Pedagogias alternativas: elas são a solução para os problemas da educação?"
 pubDate: "2026-07-13"
-heroImage: "/images/pedagogias-alternativas-elas-sao-a-solucao-para-os-problemas-da-educacao.jpg"
+heroImage: "/images/posts/pedagogias-alternativas-elas-sao-a-solucao-para-os-problemas-da-educacao.jpg"
 tags:
   - "colchão"
 ---
