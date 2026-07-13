@@ -2,7 +2,7 @@
 title: "Escolas bilíngues: o investimento vale a pena para o futuro do seu filho?"
 description: "Escolas bilíngues: o investimento vale a pena para o futuro do seu filho?"
 pubDate: "2026-07-13"
-heroImage: "/images/escolas-bilingues-o-investimento-vale-a-pena-para-o-futuro-do-seu-filho.jpg"
+heroImage: "/images/posts/escolas-bilingues-o-investimento-vale-a-pena-para-o-futuro-do-seu-filho.jpg"
 tags:
   - "escolas bilíngues"
   - "educação bilíngue"
