@@ -2,7 +2,7 @@
 title: "Descubra seu estilo de aprendizado: otimize sua forma de estudar."
 description: "Descubra seu estilo de aprendizado: otimize sua forma de estudar."
 pubDate: "2026-07-13"
-heroImage: "/images/descubra-seu-estilo-de-aprendizado-otimize-sua-forma-de-estudar.jpg"
+heroImage: "/images/posts/descubra-seu-estilo-de-aprendizado-otimize-sua-forma-de-estudar.jpg"
 tags:
   - "aprendizagem"
   - "estudo"
