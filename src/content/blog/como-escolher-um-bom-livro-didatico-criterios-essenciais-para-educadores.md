@@ -2,7 +2,7 @@
 title: "Como Escolher um Bom Livro Didático: Critérios Essenciais para Educadores"
 description: "Como Escolher um Bom Livro Didático: Critérios Essenciais para Educadores"
 pubDate: "2026-07-13"
-heroImage: "/images/como-escolher-um-bom-livro-didatico-criterios-essenciais-para-educadores.jpg"
+heroImage: "/images/posts/como-escolher-um-bom-livro-didatico-criterios-essenciais-para-educadores.jpg"
 tags:
   - "colchão"
 ---
