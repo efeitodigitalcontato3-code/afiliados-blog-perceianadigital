@@ -2,7 +2,7 @@
 title: "Desmistifique o Homeschooling: O Que a Lei Brasileira Permite e o Que Não Permite"
 description: "Desmistifique o Homeschooling: O Que a Lei Brasileira Permite e o Que Não Permite"
 pubDate: "2026-07-13"
-heroImage: "/images/desmistifique-o-homeschooling-o-que-a-lei-brasileira-permite-e-o-que-nao-permite.jpg"
+heroImage: "/images/posts/desmistifique-o-homeschooling-o-que-a-lei-brasileira-permite-e-o-que-nao-permite.jpg"
 tags:
   - "homeschooling"
   - "educação"
