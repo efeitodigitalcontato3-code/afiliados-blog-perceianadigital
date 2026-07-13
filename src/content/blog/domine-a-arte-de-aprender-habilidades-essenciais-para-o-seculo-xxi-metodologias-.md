@@ -2,7 +2,7 @@
 title: "Domine a Arte de Aprender: Habilidades Essenciais para o Século XXI [Metodologias Ativas]"
 description: "Domine a Arte de Aprender: Habilidades Essenciais para o Século XXI [Metodologias Ativas]"
 pubDate: "2026-07-13"
-heroImage: "/images/domine-a-arte-de-aprender-habilidades-essenciais-para-o-seculo-xxi-metodologias-.jpg"
+heroImage: "/images/posts/domine-a-arte-de-aprender-habilidades-essenciais-para-o-seculo-xxi-metodologias-.jpg"
 tags:
   - "aprendizado"
   - "desenvolvimento pessoal"
