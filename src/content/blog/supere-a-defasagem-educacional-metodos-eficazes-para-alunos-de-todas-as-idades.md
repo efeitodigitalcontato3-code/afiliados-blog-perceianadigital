@@ -2,7 +2,7 @@
 title: "Supere a defasagem educacional: métodos eficazes para alunos de todas as idades."
 description: "Supere a defasagem educacional: métodos eficazes para alunos de todas as idades."
 pubDate: "2026-07-13"
-heroImage: "/images/supere-a-defasagem-educacional-metodos-eficazes-para-alunos-de-todas-as-idades.jpg"
+heroImage: "/images/posts/supere-a-defasagem-educacional-metodos-eficazes-para-alunos-de-todas-as-idades.jpg"
 tags:
   - "colchão"
 ---
