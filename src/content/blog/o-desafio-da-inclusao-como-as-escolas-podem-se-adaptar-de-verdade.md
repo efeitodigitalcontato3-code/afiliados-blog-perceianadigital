@@ -2,7 +2,7 @@
 title: "O desafio da inclusão: como as escolas podem se adaptar de verdade?"
 description: "O desafio da inclusão: como as escolas podem se adaptar de verdade?"
 pubDate: "2026-07-13"
-heroImage: "/images/o-desafio-da-inclusao-como-as-escolas-podem-se-adaptar-de-verdade.jpg"
+heroImage: "/images/posts/o-desafio-da-inclusao-como-as-escolas-podem-se-adaptar-de-verdade.jpg"
 tags:
   - "inclusão em educação"
   - "ensino inclusivo"
