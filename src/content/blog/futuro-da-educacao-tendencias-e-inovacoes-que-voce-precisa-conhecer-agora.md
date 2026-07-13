@@ -2,7 +2,7 @@
 title: "Futuro da educação: tendências e inovações que você precisa conhecer agora."
 description: "Futuro da educação: tendências e inovações que você precisa conhecer agora."
 pubDate: "2026-07-13"
-heroImage: "/images/futuro-da-educacao-tendencias-e-inovacoes-que-voce-precisa-conhecer-agora.jpg"
+heroImage: "/images/posts/futuro-da-educacao-tendencias-e-inovacoes-que-voce-precisa-conhecer-agora.jpg"
 tags:
   - "educação"
   - "tecnologia"
