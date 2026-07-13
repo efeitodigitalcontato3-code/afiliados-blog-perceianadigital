@@ -2,7 +2,7 @@
 title: "Simplifique a Aprendizagem: Técnicas de Estudo Eficazes para Maximizar Resultados"
 description: "Simplifique a Aprendizagem: Técnicas de Estudo Eficazes para Maximizar Resultados"
 pubDate: "2026-07-13"
-heroImage: "/images/simplifique-a-aprendizagem-tecnicas-de-estudo-eficazes-para-maximizar-resultados.jpg"
+heroImage: "/images/posts/simplifique-a-aprendizagem-tecnicas-de-estudo-eficazes-para-maximizar-resultados.jpg"
 tags:
   - "colchão"
 ---
