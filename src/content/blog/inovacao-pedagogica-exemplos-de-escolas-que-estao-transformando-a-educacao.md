@@ -2,7 +2,7 @@
 title: "Inovação Pedagógica: Exemplos de Escolas que Estão Transformando a Educação"
 description: "Inovação Pedagógica: Exemplos de Escolas que Estão Transformando a Educação"
 pubDate: "2026-07-13"
-heroImage: "/images/inovacao-pedagogica-exemplos-de-escolas-que-estao-transformando-a-educacao.jpg"
+heroImage: "/images/posts/inovacao-pedagogica-exemplos-de-escolas-que-estao-transformando-a-educacao.jpg"
 tags:
   - "educação"
   - "inovação"
