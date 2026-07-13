@@ -2,7 +2,7 @@
 title: "Desafios da Formação de Professores: Como Preparar os Educadores para o Amanhã"
 description: "Desafios da Formação de Professores: Como Preparar os Educadores para o Amanhã"
 pubDate: "2026-07-13"
-heroImage: "/images/desafios-da-formacao-de-professores-como-preparar-os-educadores-para-o-amanha.jpg"
+heroImage: "/images/posts/desafios-da-formacao-de-professores-como-preparar-os-educadores-para-o-amanha.jpg"
 tags:
   - "educação"
   - "professores"
