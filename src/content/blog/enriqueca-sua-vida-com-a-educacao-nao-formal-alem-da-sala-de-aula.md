@@ -2,7 +2,7 @@
 title: "Enriqueça sua vida com a educação não formal: além da sala de aula."
 description: "Enriqueça sua vida com a educação não formal: além da sala de aula."
 pubDate: "2026-07-13"
-heroImage: "/images/enriqueca-sua-vida-com-a-educacao-nao-formal-alem-da-sala-de-aula.jpg"
+heroImage: "/images/posts/enriqueca-sua-vida-com-a-educacao-nao-formal-alem-da-sala-de-aula.jpg"
 tags:
   - "educação não formal"
   - "aprendizagem"
