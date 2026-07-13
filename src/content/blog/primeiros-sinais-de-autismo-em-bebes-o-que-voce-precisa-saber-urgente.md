@@ -2,7 +2,7 @@
 title: "Primeiros Sinais de Autismo em Bebês: O Que Você Precisa Saber Urgente"
 description: "Primeiros Sinais de Autismo em Bebês: O Que Você Precisa Saber Urgente"
 pubDate: "2026-07-13"
-heroImage: "/images/primeiros-sinais-de-autismo-em-bebes-o-que-voce-precisa-saber-urgente.jpg"
+heroImage: "/images/posts/primeiros-sinais-de-autismo-em-bebes-o-que-voce-precisa-saber-urgente.jpg"
 tags:
   - "autismo"
   - "bebês"
