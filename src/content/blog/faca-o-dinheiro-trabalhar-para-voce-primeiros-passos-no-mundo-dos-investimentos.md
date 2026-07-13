@@ -2,7 +2,7 @@
 title: "Faça o dinheiro trabalhar para você: primeiros passos no mundo dos investimentos."
 description: "Faça o dinheiro trabalhar para você: primeiros passos no mundo dos investimentos."
 pubDate: "2026-07-13"
-heroImage: "/images/faca-o-dinheiro-trabalhar-para-voce-primeiros-passos-no-mundo-dos-investimentos.jpg"
+heroImage: "/images/posts/faca-o-dinheiro-trabalhar-para-voce-primeiros-passos-no-mundo-dos-investimentos.jpg"
 tags:
   - "investimento"
   - "renda passiva"
