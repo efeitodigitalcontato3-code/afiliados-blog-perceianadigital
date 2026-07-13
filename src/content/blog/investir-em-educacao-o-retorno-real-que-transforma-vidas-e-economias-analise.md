@@ -2,7 +2,7 @@
 title: "Investir em Educação: O Retorno Real que Transforma Vidas e Economias (Análise)"
 description: "Investir em Educação: O Retorno Real que Transforma Vidas e Economias (Análise)"
 pubDate: "2026-07-13"
-heroImage: "/images/investir-em-educacao-o-retorno-real-que-transforma-vidas-e-economias-analise.jpg"
+heroImage: "/images/posts/investir-em-educacao-o-retorno-real-que-transforma-vidas-e-economias-analise.jpg"
 tags:
   - "colchão"
 ---
