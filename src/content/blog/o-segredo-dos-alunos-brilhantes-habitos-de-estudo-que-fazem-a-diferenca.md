@@ -2,7 +2,7 @@
 title: "O Segredo dos Alunos Brilhantes: Hábitos de Estudo que Fazem a Diferença"
 description: "O Segredo dos Alunos Brilhantes: Hábitos de Estudo que Fazem a Diferença"
 pubDate: "2026-07-13"
-heroImage: "/images/posts/o-segredo-dos-alunos-brilhantes-habitos-de-estudo-que-fazem-a-diferenca.jpg"
+heroImage: "/images/o-segredo-dos-alunos-brilhantes-habitos-de-estudo-que-fazem-a-diferenca.jpg"
 tags:
   - "estudo"
   - "aprendizado"

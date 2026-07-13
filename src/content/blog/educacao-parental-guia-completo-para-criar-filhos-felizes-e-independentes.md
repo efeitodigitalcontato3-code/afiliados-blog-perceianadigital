@@ -2,7 +2,7 @@
 title: "Educação Parental: Guia Completo para Criar Filhos Felizes e Independentes"
 description: "Educação Parental: Guia Completo para Criar Filhos Felizes e Independentes"
 pubDate: "2026-07-13"
-heroImage: "/images/posts/educacao-parental-guia-completo-para-criar-filhos-felizes-e-independentes.jpg"
+heroImage: "/images/educacao-parental-guia-completo-para-criar-filhos-felizes-e-independentes.jpg"
 tags:
   - "educação parental"
   - "pais"

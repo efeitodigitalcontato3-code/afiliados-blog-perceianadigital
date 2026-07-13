@@ -2,7 +2,7 @@
 title: "Planeje seu Desenvolvimento Profissional: Cursos e Certificações Essenciais (Quero Fazer)"
 description: "Planeje seu Desenvolvimento Profissional: Cursos e Certificações Essenciais (Quero Fazer)"
 pubDate: "2026-07-13"
-heroImage: "/images/posts/planeje-seu-desenvolvimento-profissional-cursos-e-certificacoes-essenciais-quero.jpg"
+heroImage: "/images/planeje-seu-desenvolvimento-profissional-cursos-e-certificacoes-essenciais-quero.jpg"
 tags:
   - "desenvolvimento profissional"
   - "cursos online"

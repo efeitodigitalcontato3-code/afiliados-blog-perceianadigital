@@ -2,7 +2,7 @@
 title: "A Importância do Feedback na Educação: Ferramenta para Crescimento Contínuo"
 description: "A Importância do Feedback na Educação: Ferramenta para Crescimento Contínuo"
 pubDate: "2026-07-13"
-heroImage: "/images/posts/a-importancia-do-feedback-na-educacao-ferramenta-para-crescimento-continuo.jpg"
+heroImage: "/images/a-importancia-do-feedback-na-educacao-ferramenta-para-crescimento-continuo.jpg"
 tags:
   - "feedback"
   - "educação"

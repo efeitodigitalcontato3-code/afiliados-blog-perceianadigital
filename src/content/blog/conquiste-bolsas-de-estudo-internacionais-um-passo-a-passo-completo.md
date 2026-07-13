@@ -2,7 +2,7 @@
 title: "Conquiste Bolsas de Estudo Internacionais: Um Passo a Passo Completo"
 description: "Conquiste Bolsas de Estudo Internacionais: Um Passo a Passo Completo"
 pubDate: "2026-07-13"
-heroImage: "/images/posts/conquiste-bolsas-de-estudo-internacionais-um-passo-a-passo-completo.jpg"
+heroImage: "/images/conquiste-bolsas-de-estudo-internacionais-um-passo-a-passo-completo.jpg"
 tags:
   - "bolsa_de_estudo"
   - "estudos_internacionais"

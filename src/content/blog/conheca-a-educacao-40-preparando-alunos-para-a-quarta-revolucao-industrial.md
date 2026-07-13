@@ -2,7 +2,7 @@
 title: "Conheça a Educação 4.0: Preparando Alunos para a Quarta Revolução Industrial"
 description: "Conheça a Educação 4.0: Preparando Alunos para a Quarta Revolução Industrial"
 pubDate: "2026-07-13"
-heroImage: "/images/posts/conheca-a-educacao-40-preparando-alunos-para-a-quarta-revolucao-industrial.jpg"
+heroImage: "/images/conheca-a-educacao-40-preparando-alunos-para-a-quarta-revolucao-industrial.jpg"
 tags:
   - "colchão"
 ---

@@ -2,7 +2,7 @@
 title: "A Verdade sobre a Educação para Todos: Inclusão e Acessibilidade (Análise)"
 description: "A Verdade sobre a Educação para Todos: Inclusão e Acessibilidade (Análise)"
 pubDate: "2026-07-13"
-heroImage: "/images/posts/a-verdade-sobre-a-educacao-para-todos-inclusao-e-acessibilidade-analise.jpg"
+heroImage: "/images/a-verdade-sobre-a-educacao-para-todos-inclusao-e-acessibilidade-analise.jpg"
 tags:
   - "colchão"
 ---

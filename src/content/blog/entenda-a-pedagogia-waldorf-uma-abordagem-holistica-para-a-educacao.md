@@ -2,7 +2,7 @@
 title: "Entenda a Pedagogia Waldorf: Uma Abordagem Holística para a Educação"
 description: "A pedagogia Waldorf oferece uma alternativa inovadora à educação tradicional. Descubra como esta abordagem holística pode transformar a aprendizagem e o desenvolvimento dos alunos."
 pubDate: "2026-07-13"
-heroImage: "/images/posts/entenda-a-pedagogia-waldorf-uma-abordagem-holistica-para-a-educacao.jpg"
+heroImage: "/images/entenda-a-pedagogia-waldorf-uma-abordagem-holistica-para-a-educacao.jpg"
 tags:
   - "pedagogia waldorf"
   - "educação"

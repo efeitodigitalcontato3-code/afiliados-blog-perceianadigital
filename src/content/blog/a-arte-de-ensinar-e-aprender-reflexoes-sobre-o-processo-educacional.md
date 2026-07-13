@@ -2,7 +2,7 @@
 title: "A Arte de Ensinar e Aprender: Reflexões sobre o Processo Educacional"
 description: "Explore os desafios da educação moderna e descubra como otimizar sua jornada de aprendizado. Através de estratégias inteligentes e recursos inovadores, transforme sua experiência em cada etapa do processo educacional."
 pubDate: "2026-07-13"
-heroImage: "/images/posts/a-arte-de-ensinar-e-aprender-reflexoes-sobre-o-processo-educacional.jpg"
+heroImage: "/images/a-arte-de-ensinar-e-aprender-reflexoes-sobre-o-processo-educacional.jpg"
 tags:
   - "educação"
   - "aprendizagem"

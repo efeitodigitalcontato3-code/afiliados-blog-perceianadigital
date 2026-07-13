@@ -2,7 +2,7 @@
 title: "Guia para Pais: Como Ajudar Seus Filhos no Dever de Casa Sem Estresse"
 description: "Guia para Pais: Como Ajudar Seus Filhos no Dever de Casa Sem Estresse"
 pubDate: "2026-07-13"
-heroImage: "/images/posts/guia-para-pais-como-ajudar-seus-filhos-no-dever-de-casa-sem-estresse.jpg"
+heroImage: "/images/guia-para-pais-como-ajudar-seus-filhos-no-dever-de-casa-sem-estresse.jpg"
 tags:
   - "pais"
   - "educação"
