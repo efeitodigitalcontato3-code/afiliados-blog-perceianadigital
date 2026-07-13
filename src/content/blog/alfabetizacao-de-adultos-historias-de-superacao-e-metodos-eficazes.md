@@ -2,7 +2,7 @@
 title: "Alfabetização de adultos: histórias de superação e métodos eficazes."
 description: "Alfabetização de adultos: histórias de superação e métodos eficazes."
 pubDate: "2026-07-13"
-heroImage: "/images/alfabetizacao-de-adultos-historias-de-superacao-e-metodos-eficazes.jpg"
+heroImage: "/images/posts/alfabetizacao-de-adultos-historias-de-superacao-e-metodos-eficazes.jpg"
 tags:
   - "alfabetização"
   - "adultos"
