@@ -2,7 +2,7 @@
 title: "Incentive o pensamento crítico desde cedo: a base para um futuro brilhante."
 description: "Incentive o pensamento crítico desde cedo: a base para um futuro brilhante."
 pubDate: "2026-07-13"
-heroImage: "/images/incentive-o-pensamento-critico-desde-cedo-a-base-para-um-futuro-brilhante.jpg"
+heroImage: "/images/posts/incentive-o-pensamento-critico-desde-cedo-a-base-para-um-futuro-brilhante.jpg"
 tags:
   - "educação"
   - "pensamento crítico"
