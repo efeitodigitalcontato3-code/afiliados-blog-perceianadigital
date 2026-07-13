@@ -2,7 +2,7 @@
 title: "Explore o Aprendizado Baseado em Projetos: Mãos à Obra e Mente Ativa (Quero Fazer)"
 description: "Explore o Aprendizado Baseado em Projetos: Mãos à Obra e Mente Ativa (Quero Fazer)"
 pubDate: "2026-07-13"
-heroImage: "/images/explore-o-aprendizado-baseado-em-projetos-maos-a-obra-e-mente-ativa-quero-fazer.jpg"
+heroImage: "/images/posts/explore-o-aprendizado-baseado-em-projetos-maos-a-obra-e-mente-ativa-quero-fazer.jpg"
 tags:
   - "aprendizado_baseado_em_projetos"
   - "projetos_de_aprendizagem"
