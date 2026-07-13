@@ -2,7 +2,7 @@
 title: "Crie um Ambiente de Aprendizagem Estimulante: Dicas para Pais e Educadores"
 description: "Crie um Ambiente de Aprendizagem Estimulante: Dicas para Pais e Educadores"
 pubDate: "2026-07-13"
-heroImage: "/images/crie-um-ambiente-de-aprendizagem-estimulante-dicas-para-pais-e-educadores.jpg"
+heroImage: "/images/posts/crie-um-ambiente-de-aprendizagem-estimulante-dicas-para-pais-e-educadores.jpg"
 tags:
   - "pais"
   - "educação"
