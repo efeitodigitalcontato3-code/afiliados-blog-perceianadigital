@@ -2,7 +2,7 @@
 title: "Organize seus estudos: técnicas comprovadas para otimizar o aprendizado."
 description: "Organize seus estudos: técnicas comprovadas para otimizar o aprendizado."
 pubDate: "2026-07-13"
-heroImage: "/images/organize-seus-estudos-tecnicas-comprovadas-para-otimizar-o-aprendizado.jpg"
+heroImage: "/images/posts/organize-seus-estudos-tecnicas-comprovadas-para-otimizar-o-aprendizado.jpg"
 tags:
   - "organização"
   - "aprendizado"
