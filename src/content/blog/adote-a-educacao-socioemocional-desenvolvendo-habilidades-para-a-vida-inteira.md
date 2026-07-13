@@ -2,7 +2,7 @@
 title: "Adote a Educação Socioemocional: Desenvolvendo Habilidades para a Vida Inteira"
 description: "Adote a Educação Socioemocional: Desenvolvendo Habilidades para a Vida Inteira"
 pubDate: "2026-07-13"
-heroImage: "/images/adote-a-educacao-socioemocional-desenvolvendo-habilidades-para-a-vida-inteira.jpg"
+heroImage: "/images/posts/adote-a-educacao-socioemocional-desenvolvendo-habilidades-para-a-vida-inteira.jpg"
 tags:
   - "educação socioemocional"
   - "desenvolvimento pessoal"
