@@ -2,7 +2,7 @@
 title: "Violência escolar: como a educação pode ser a ferramenta de prevenção."
 description: "A violência escolar é um problema crescente que afeta a saúde mental e o bem-estar de milhares de crianças e adolescentes. Descubra como o poder da educação pode ser a chave para transformar a realidade de nossas escolas."
 pubDate: "2026-07-13"
-heroImage: "/images/violencia-escolar-como-a-educacao-pode-ser-a-ferramenta-de-prevencao.jpg"
+heroImage: "/images/posts/violencia-escolar-como-a-educacao-pode-ser-a-ferramenta-de-prevencao.jpg"
 tags:
   - "educação"
   - "violência escolar"
