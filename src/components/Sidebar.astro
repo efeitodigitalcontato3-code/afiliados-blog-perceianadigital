@@ -79,32 +79,7 @@ const recommendedProducts = siteConfig.recommendedProducts || [];
     </ul>
   </section>
 
-  <!-- Produtos Recomendados -->
-  {recommendedProducts.length > 0 && (
-    <section class="sidebar-section amazon-products-section">
-      <h3 class="section-title">Recomendados</h3>
-      <div class="recommended-products">
-        {recommendedProducts.map(prod => (
-          <div class="prod-card">
-            <div class="prod-img">
-              <img src={prod.image} alt={prod.title} loading="lazy" width="65" height="65" decoding="async" />
-            </div>
-            <div class="prod-info">
-              <h4 class="prod-title" title={prod.title}>{prod.title}</h4>
-              <div class="prod-rating">
-                <span class="stars">{"★".repeat(Math.floor(prod.rating)) + (prod.rating % 1 >= 0.5 ? "½" : "")}</span>
-                <span class="rating-val">{prod.rating} ({prod.reviews})</span>
-              </div>
-              <p class="prod-price">{prod.priceRange}</p>
-              <a href={prod.link} target="_blank" rel="noopener noreferrer nofollow" class="buy-button">
-                Ver preço aqui
-              </a>
-            </div>
-          </div>
-        ))}
-      </div>
-    </section>
-  )}
+
 </div>
 
 <style>
