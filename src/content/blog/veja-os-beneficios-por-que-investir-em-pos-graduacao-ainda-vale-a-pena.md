@@ -2,7 +2,7 @@
 title: "Veja os Benefícios: Por Que Investir em Pós-Graduação Ainda Vale a Pena?"
 description: "Veja os Benefícios: Por Que Investir em Pós-Graduação Ainda Vale a Pena?"
 pubDate: "2026-07-13"
-heroImage: "/images/veja-os-beneficios-por-que-investir-em-pos-graduacao-ainda-vale-a-pena.jpg"
+heroImage: "/images/posts/veja-os-beneficios-por-que-investir-em-pos-graduacao-ainda-vale-a-pena.jpg"
 tags:
   - "pós-graduação"
   - "desenvolvimento pessoal"
