@@ -2,7 +2,7 @@
 title: "Explore Novas Metodologias: O Que Há de Mais Moderno no Ensino Atualmente"
 description: "Explore Novas Metodologias: O Que Há de Mais Moderno no Ensino Atualmente"
 pubDate: "2026-07-13"
-heroImage: "/images/explore-novas-metodologias-o-que-ha-de-mais-moderno-no-ensino-atualmente.jpg"
+heroImage: "/images/posts/explore-novas-metodologias-o-que-ha-de-mais-moderno-no-ensino-atualmente.jpg"
 tags:
   - "ensino"
   - "educação"
