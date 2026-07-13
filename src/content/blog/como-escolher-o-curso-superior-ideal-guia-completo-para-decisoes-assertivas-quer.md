@@ -2,7 +2,7 @@
 title: "Como Escolher o Curso Superior Ideal: Guia Completo para Decisões Assertivas (Quero Comprar)"
 description: "Como Escolher o Curso Superior Ideal: Guia Completo para Decisões Assertivas (Quero Comprar)"
 pubDate: "2026-07-13"
-heroImage: "/images/como-escolher-o-curso-superior-ideal-guia-completo-para-decisoes-assertivas-quer.jpg"
+heroImage: "/images/posts/como-escolher-o-curso-superior-ideal-guia-completo-para-decisoes-assertivas-quer.jpg"
 tags:
   - "curso superior"
   - "educação online"
