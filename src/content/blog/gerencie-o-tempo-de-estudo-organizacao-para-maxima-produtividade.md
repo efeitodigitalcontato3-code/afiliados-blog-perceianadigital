@@ -2,7 +2,7 @@
 title: "Gerencie o Tempo de Estudo: Organização para Máxima Produtividade"
 description: "Gerencie o Tempo de Estudo: Organização para Máxima Produtividade"
 pubDate: "2026-07-13"
-heroImage: "/images/gerencie-o-tempo-de-estudo-organizacao-para-maxima-produtividade.jpg"
+heroImage: "/images/posts/gerencie-o-tempo-de-estudo-organizacao-para-maxima-produtividade.jpg"
 tags:
   - "produtividade"
   - "estudo"
