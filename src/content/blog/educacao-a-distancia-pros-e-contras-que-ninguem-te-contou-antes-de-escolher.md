@@ -2,7 +2,7 @@
 title: "Educação a distância: prós e contras que ninguém te contou antes de escolher."
 description: "Educação a distância: prós e contras que ninguém te contou antes de escolher."
 pubDate: "2026-07-13"
-heroImage: "/images/educacao-a-distancia-pros-e-contras-que-ninguem-te-contou-antes-de-escolher.jpg"
+heroImage: "/images/posts/educacao-a-distancia-pros-e-contras-que-ninguem-te-contou-antes-de-escolher.jpg"
 tags:
   - "EAD"
   - "Educação Online"
