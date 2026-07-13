@@ -2,7 +2,7 @@
 title: "A era digital na educação: benefícios e armadilhas a serem evitadas."
 description: "A era digital na educação: benefícios e armadilhas a serem evitadas."
 pubDate: "2026-07-13"
-heroImage: "/images/a-era-digital-na-educacao-beneficios-e-armadilhas-a-serem-evitadas.jpg"
+heroImage: "/images/posts/a-era-digital-na-educacao-beneficios-e-armadilhas-a-serem-evitadas.jpg"
 tags:
   - "colchão"
 ---
