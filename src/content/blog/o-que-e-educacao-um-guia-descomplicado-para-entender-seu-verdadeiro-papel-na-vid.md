@@ -2,7 +2,7 @@
 title: "O que é educação: um guia descomplicado para entender seu verdadeiro papel na vida [2026]."
 description: "O que é educação: um guia descomplicado para entender seu verdadeiro papel na vida [2026]."
 pubDate: "2026-07-13"
-heroImage: "/images/o-que-e-educacao-um-guia-descomplicado-para-entender-seu-verdadeiro-papel-na-vid.jpg"
+heroImage: "/images/posts/o-que-e-educacao-um-guia-descomplicado-para-entender-seu-verdadeiro-papel-na-vid.jpg"
 tags:
   - "educação"
   - "aprendizado"
