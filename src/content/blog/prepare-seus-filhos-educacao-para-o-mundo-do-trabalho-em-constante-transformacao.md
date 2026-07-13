@@ -2,7 +2,7 @@
 title: "Prepare Seus Filhos: Educação para o Mundo do Trabalho em Constante Transformação"
 description: "Prepare Seus Filhos: Educação para o Mundo do Trabalho em Constante Transformação"
 pubDate: "2026-07-13"
-heroImage: "/images/prepare-seus-filhos-educacao-para-o-mundo-do-trabalho-em-constante-transformacao.jpg"
+heroImage: "/images/posts/prepare-seus-filhos-educacao-para-o-mundo-do-trabalho-em-constante-transformacao.jpg"
 tags:
   - "educação"
   - "trabalho"
