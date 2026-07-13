@@ -2,7 +2,7 @@
 title: "Otimize Sua Carreira: Educação Corporativa e o Salto que Sua Empresa Precisa [2026]"
 description: "Otimize Sua Carreira: Educação Corporativa e o Salto que Sua Empresa Precisa [2026]"
 pubDate: "2026-07-13"
-heroImage: "/images/otimize-sua-carreira-educacao-corporativa-e-o-salto-que-sua-empresa-precisa-2026.jpg"
+heroImage: "/images/posts/otimize-sua-carreira-educacao-corporativa-e-o-salto-que-sua-empresa-precisa-2026.jpg"
 tags:
   - "educação corporativa"
   - "carreira"
