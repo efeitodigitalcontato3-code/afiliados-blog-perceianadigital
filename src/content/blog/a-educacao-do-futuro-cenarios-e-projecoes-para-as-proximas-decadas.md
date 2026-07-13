@@ -2,7 +2,7 @@
 title: "A Educação do Futuro: Cenários e Projeções para as Próximas Décadas"
 description: "Explore o futuro da educação com essa análise de cenários e projeções. Descubra como a tecnologia, a globalização e a demanda por conhecimento moldarão o aprendizado dos próximos anos."
 pubDate: "2026-07-13"
-heroImage: "/images/a-educacao-do-futuro-cenarios-e-projecoes-para-as-proximas-decadas.jpg"
+heroImage: "/images/posts/a-educacao-do-futuro-cenarios-e-projecoes-para-as-proximas-decadas.jpg"
 tags:
   - "educação"
   - "futuro"
