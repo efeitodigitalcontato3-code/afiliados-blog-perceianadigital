@@ -2,7 +2,7 @@
 title: "Construa uma rotina de estudos produtiva: dicas para alta performance acadêmica."
 description: "Construa uma rotina de estudos produtiva: dicas para alta performance acadêmica."
 pubDate: "2026-07-13"
-heroImage: "/images/construa-uma-rotina-de-estudos-produtiva-dicas-para-alta-performance-academica.jpg"
+heroImage: "/images/posts/construa-uma-rotina-de-estudos-produtiva-dicas-para-alta-performance-academica.jpg"
 tags:
   - "rotina"
   - "estudo"
