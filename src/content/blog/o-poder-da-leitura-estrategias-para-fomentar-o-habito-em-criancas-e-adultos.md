@@ -2,7 +2,7 @@
 title: "O Poder da Leitura: Estratégias para Fomentar o Hábito em Crianças e Adultos"
 description: "O Poder da Leitura: Estratégias para Fomentar o Hábito em Crianças e Adultos"
 pubDate: "2026-07-13"
-heroImage: "/images/o-poder-da-leitura-estrategias-para-fomentar-o-habito-em-criancas-e-adultos.jpg"
+heroImage: "/images/posts/o-poder-da-leitura-estrategias-para-fomentar-o-habito-em-criancas-e-adultos.jpg"
 tags:
   - "colchão"
 ---
