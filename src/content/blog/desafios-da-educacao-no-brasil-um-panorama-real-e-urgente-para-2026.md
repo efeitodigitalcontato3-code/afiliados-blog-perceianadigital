@@ -2,7 +2,7 @@
 title: "Desafios da educação no Brasil: um panorama real e urgente para 2026."
 description: "Desafios da educação no Brasil: um panorama real e urgente para 2026."
 pubDate: "2026-07-13"
-heroImage: "/images/desafios-da-educacao-no-brasil-um-panorama-real-e-urgente-para-2026.jpg"
+heroImage: "/images/posts/desafios-da-educacao-no-brasil-um-panorama-real-e-urgente-para-2026.jpg"
 tags:
   - "educação"
   - "brasil"
