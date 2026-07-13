@@ -2,7 +2,7 @@
 title: "Tenha uma Mente Aberta: Educação Midiática para Navegar na Era da Desinformação"
 description: "Tenha uma Mente Aberta: Educação Midiática para Navegar na Era da Desinformação"
 pubDate: "2026-07-13"
-heroImage: "/images/tenha-uma-mente-aberta-educacao-midiatica-para-navegar-na-era-da-desinformacao.jpg"
+heroImage: "/images/posts/tenha-uma-mente-aberta-educacao-midiatica-para-navegar-na-era-da-desinformacao.jpg"
 tags:
   - "colchão"
 ---
