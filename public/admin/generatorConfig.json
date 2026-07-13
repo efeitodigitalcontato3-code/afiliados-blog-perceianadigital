@@ -1,0 +1,31 @@
+{
+  "theme": "multicategorias",
+  "categories": [
+    {
+      "value": "multicategorias",
+      "label": "Multicategorias"
+    },
+    {
+      "value": "dicas",
+      "label": "Dicas de Multicategorias"
+    },
+    {
+      "value": "analises",
+      "label": "Análises e Guias"
+    }
+  ],
+  "images": [
+    {
+      "value": "/recommended-multicategorias-1.jpg",
+      "label": "Multicategorias Premium"
+    },
+    {
+      "value": "/recommended-multicategorias-2.jpg",
+      "label": "Multicategorias Custo-Benefício"
+    },
+    {
+      "value": "/recommended-multicategorias-3.jpg",
+      "label": "Melhores Multicategorias"
+    }
+  ]
+}
