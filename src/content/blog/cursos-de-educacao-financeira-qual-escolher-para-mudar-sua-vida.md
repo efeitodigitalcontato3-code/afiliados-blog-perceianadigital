@@ -2,7 +2,7 @@
 title: "Cursos de educação financeira: qual escolher para mudar sua vida?"
 description: "Cursos de educação financeira: qual escolher para mudar sua vida?"
 pubDate: "2026-07-13"
-heroImage: "/images/cursos-de-educacao-financeira-qual-escolher-para-mudar-sua-vida.jpg"
+heroImage: "/images/posts/cursos-de-educacao-financeira-qual-escolher-para-mudar-sua-vida.jpg"
 tags:
   - "educação financeira"
   - "cursos online"
