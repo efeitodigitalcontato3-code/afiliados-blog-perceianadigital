@@ -2,7 +2,7 @@
 title: "Quebre Paradigmas: A Educação não Formal como Catalisador de Talentos Ocultos"
 description: "Quebre Paradigmas: A Educação não Formal como Catalisador de Talentos Ocultos"
 pubDate: "2026-07-13"
-heroImage: "/images/quebre-paradigmas-a-educacao-nao-formal-como-catalisador-de-talentos-ocultos.jpg"
+heroImage: "/images/posts/quebre-paradigmas-a-educacao-nao-formal-como-catalisador-de-talentos-ocultos.jpg"
 tags:
   - "educação"
   - "informal"
