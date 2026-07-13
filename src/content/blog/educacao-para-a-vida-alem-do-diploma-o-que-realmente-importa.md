@@ -2,7 +2,7 @@
 title: "Educação para a vida: além do diploma, o que realmente importa?"
 description: "Educação para a vida: além do diploma, o que realmente importa?"
 pubDate: "2026-07-13"
-heroImage: "/images/educacao-para-a-vida-alem-do-diploma-o-que-realmente-importa.jpg"
+heroImage: "/images/posts/educacao-para-a-vida-alem-do-diploma-o-que-realmente-importa.jpg"
 tags:
   - "educação"
   - "autoconhecimento"
