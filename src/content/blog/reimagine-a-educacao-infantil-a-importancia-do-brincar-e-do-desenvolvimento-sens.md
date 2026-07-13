@@ -2,7 +2,7 @@
 title: "Reimagine a Educação Infantil: A Importância do Brincar e do Desenvolvimento Sensorial"
 description: "Reimagine a Educação Infantil: A Importância do Brincar e do Desenvolvimento Sensorial"
 pubDate: "2026-07-13"
-heroImage: "/images/reimagine-a-educacao-infantil-a-importancia-do-brincar-e-do-desenvolvimento-sens.jpg"
+heroImage: "/images/posts/reimagine-a-educacao-infantil-a-importancia-do-brincar-e-do-desenvolvimento-sens.jpg"
 tags:
   - "educação infantil"
   - "desenvolvimento sensorial"
