@@ -2,7 +2,7 @@
 title: "Cursos profissionalizantes: o caminho rápido para o mercado de trabalho (avaliação)."
 description: "Cursos profissionalizantes: o caminho rápido para o mercado de trabalho (avaliação)."
 pubDate: "2026-07-13"
-heroImage: "/images/cursos-profissionalizantes-o-caminho-rapido-para-o-mercado-de-trabalho-avaliacao.jpg"
+heroImage: "/images/posts/cursos-profissionalizantes-o-caminho-rapido-para-o-mercado-de-trabalho-avaliacao.jpg"
 tags:
   - "cursos profissionais"
   - "qualificacao profissional"
