@@ -2,7 +2,7 @@
 title: "Planos de estudo personalizados: onde encontrar e como funcionam?"
 description: "Planos de estudo personalizados: onde encontrar e como funcionam?"
 pubDate: "2026-07-13"
-heroImage: "/images/planos-de-estudo-personalizados-onde-encontrar-e-como-funcionam.jpg"
+heroImage: "/images/posts/planos-de-estudo-personalizados-onde-encontrar-e-como-funcionam.jpg"
 tags:
   - "colchão"
 ---
