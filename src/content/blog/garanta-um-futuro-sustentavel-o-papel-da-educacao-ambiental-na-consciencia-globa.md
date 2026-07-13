@@ -2,7 +2,7 @@
 title: "Garanta um Futuro Sustentável: O Papel da Educação Ambiental na Consciência Global"
 description: "Garanta um Futuro Sustentável: O Papel da Educação Ambiental na Consciência Global"
 pubDate: "2026-07-13"
-heroImage: "/images/garanta-um-futuro-sustentavel-o-papel-da-educacao-ambiental-na-consciencia-globa.jpg"
+heroImage: "/images/posts/garanta-um-futuro-sustentavel-o-papel-da-educacao-ambiental-na-consciencia-globa.jpg"
 tags:
   - "colchão"
 ---
