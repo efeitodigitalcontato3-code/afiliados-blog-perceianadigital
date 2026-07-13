@@ -2,7 +2,7 @@
 title: "O papel dos pais na educação dos filhos: construindo um alicerce sólido."
 description: "O papel dos pais na educação dos filhos: construindo um alicerce sólido."
 pubDate: "2026-07-13"
-heroImage: "/images/o-papel-dos-pais-na-educacao-dos-filhos-construindo-um-alicerce-solido.jpg"
+heroImage: "/images/posts/o-papel-dos-pais-na-educacao-dos-filhos-construindo-um-alicerce-solido.jpg"
 tags:
   - "educação infantil"
   - "pais"
