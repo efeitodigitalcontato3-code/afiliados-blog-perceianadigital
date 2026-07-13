@@ -2,7 +2,7 @@
 title: "Combata o Bullying: Programas de Prevenção e Intervenção para Escolas Seguras"
 description: "Combata o Bullying: Programas de Prevenção e Intervenção para Escolas Seguras"
 pubDate: "2026-07-13"
-heroImage: "/images/combata-o-bullying-programas-de-prevencao-e-intervencao-para-escolas-seguras.jpg"
+heroImage: "/images/posts/combata-o-bullying-programas-de-prevencao-e-intervencao-para-escolas-seguras.jpg"
 tags:
   - "colchão"
 ---
