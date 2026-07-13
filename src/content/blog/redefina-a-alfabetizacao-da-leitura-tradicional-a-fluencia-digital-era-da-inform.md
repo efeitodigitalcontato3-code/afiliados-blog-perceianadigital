@@ -2,7 +2,7 @@
 title: "Redefina a Alfabetização: Da Leitura Tradicional à Fluência Digital [Era da Informação]"
 description: "Redefina a Alfabetização: Da Leitura Tradicional à Fluência Digital [Era da Informação]"
 pubDate: "2026-07-13"
-heroImage: "/images/redefina-a-alfabetizacao-da-leitura-tradicional-a-fluencia-digital-era-da-inform.jpg"
+heroImage: "/images/posts/redefina-a-alfabetizacao-da-leitura-tradicional-a-fluencia-digital-era-da-inform.jpg"
 tags:
   - "alfabetização digital"
   - "leitura online"
