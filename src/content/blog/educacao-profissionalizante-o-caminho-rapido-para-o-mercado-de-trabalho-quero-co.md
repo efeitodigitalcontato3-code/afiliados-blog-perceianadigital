@@ -2,7 +2,7 @@
 title: "Educação Profissionalizante: O Caminho Rápido para o Mercado de Trabalho (Quero Comprar)"
 description: "Educação Profissionalizante: O Caminho Rápido para o Mercado de Trabalho (Quero Comprar)"
 pubDate: "2026-07-13"
-heroImage: "/images/educacao-profissionalizante-o-caminho-rapido-para-o-mercado-de-trabalho-quero-co.jpg"
+heroImage: "/images/posts/educacao-profissionalizante-o-caminho-rapido-para-o-mercado-de-trabalho-quero-co.jpg"
 tags:
   - "educação profissionalizante"
   - "mercado de trabalho"
