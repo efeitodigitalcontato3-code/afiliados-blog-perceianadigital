@@ -2,7 +2,7 @@
 title: "Educação e Cidadania: Como Formar Indivíduos Engajados e Responsáveis"
 description: "Educação e Cidadania: Como Formar Indivíduos Engajados e Responsáveis"
 pubDate: "2026-07-13"
-heroImage: "/images/educacao-e-cidadania-como-formar-individuos-engajados-e-responsaveis.jpg"
+heroImage: "/images/posts/educacao-e-cidadania-como-formar-individuos-engajados-e-responsaveis.jpg"
 tags:
   - "educação"
   - "cidadania"
