@@ -2,7 +2,7 @@
 title: "Inspire o Aprendizado: Dicas para Criar um Ambiente de Estudo Positivo em Casa"
 description: "Inspire o Aprendizado: Dicas para Criar um Ambiente de Estudo Positivo em Casa"
 pubDate: "2026-07-13"
-heroImage: "/images/inspire-o-aprendizado-dicas-para-criar-um-ambiente-de-estudo-positivo-em-casa.jpg"
+heroImage: "/images/posts/inspire-o-aprendizado-dicas-para-criar-um-ambiente-de-estudo-positivo-em-casa.jpg"
 tags:
   - "colchão"
 ---
