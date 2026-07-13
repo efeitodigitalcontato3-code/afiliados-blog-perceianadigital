@@ -2,7 +2,7 @@
 title: "Explore o Universo da Educação Formal vs. Informal: Qual Caminho é o Ideal para Você?"
 description: "Explore o Universo da Educação Formal vs. Informal: Qual Caminho é o Ideal para Você?"
 pubDate: "2026-07-13"
-heroImage: "/images/explore-o-universo-da-educacao-formal-vs-informal-qual-caminho-e-o-ideal-para-vo.jpg"
+heroImage: "/images/posts/explore-o-universo-da-educacao-formal-vs-informal-qual-caminho-e-o-ideal-para-vo.jpg"
 tags:
   - "colchão"
 ---
