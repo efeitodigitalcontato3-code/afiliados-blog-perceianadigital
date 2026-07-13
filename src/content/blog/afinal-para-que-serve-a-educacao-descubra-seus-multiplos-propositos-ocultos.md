@@ -2,7 +2,7 @@
 title: "Afinal, para que serve a educação? Descubra seus múltiplos propósitos ocultos."
 description: "Afinal, para que serve a educação? Descubra seus múltiplos propósitos ocultos."
 pubDate: "2026-07-13"
-heroImage: "/images/afinal-para-que-serve-a-educacao-descubra-seus-multiplos-propositos-ocultos.jpg"
+heroImage: "/images/posts/afinal-para-que-serve-a-educacao-descubra-seus-multiplos-propositos-ocultos.jpg"
 tags:
   - "educação"
   - "desenvolvimento pessoal"
