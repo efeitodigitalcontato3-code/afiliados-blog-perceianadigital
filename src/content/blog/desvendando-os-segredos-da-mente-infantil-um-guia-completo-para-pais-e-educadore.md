@@ -2,7 +2,7 @@
 title: "Desvendando os Segredos da Mente Infantil: Um Guia Completo para Pais e Educadores [Atualizado 2026]"
 description: "Desvendando os Segredos da Mente Infantil: Um Guia Completo para Pais e Educadores [Atualizado 2026]"
 pubDate: "2026-07-13"
-heroImage: "/images/desvendando-os-segredos-da-mente-infantil-um-guia-completo-para-pais-e-educadore.jpg"
+heroImage: "/images/posts/desvendando-os-segredos-da-mente-infantil-um-guia-completo-para-pais-e-educadore.jpg"
 tags:
   - "infância"
   - "desenvolvimento infantil"
