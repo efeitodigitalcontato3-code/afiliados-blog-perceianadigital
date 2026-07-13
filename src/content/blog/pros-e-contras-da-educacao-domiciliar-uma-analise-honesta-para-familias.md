@@ -2,7 +2,7 @@
 title: "Prós e contras da educação domiciliar: uma análise honesta para famílias."
 description: "Prós e contras da educação domiciliar: uma análise honesta para famílias."
 pubDate: "2026-07-13"
-heroImage: "/images/pros-e-contras-da-educacao-domiciliar-uma-analise-honesta-para-familias.jpg"
+heroImage: "/images/posts/pros-e-contras-da-educacao-domiciliar-uma-analise-honesta-para-familias.jpg"
 tags:
   - "educação homeschooling"
   - "educação personalizada"
