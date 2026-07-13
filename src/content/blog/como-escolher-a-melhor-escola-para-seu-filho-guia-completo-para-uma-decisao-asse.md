@@ -2,7 +2,7 @@
 title: "Como escolher a melhor escola para seu filho: guia completo para uma decisão assertiva."
 description: "Como escolher a melhor escola para seu filho: guia completo para uma decisão assertiva."
 pubDate: "2026-07-13"
-heroImage: "/images/como-escolher-a-melhor-escola-para-seu-filho-guia-completo-para-uma-decisao-asse.jpg"
+heroImage: "/images/posts/como-escolher-a-melhor-escola-para-seu-filho-guia-completo-para-uma-decisao-asse.jpg"
 tags:
   - "escola"
   - "educação"
