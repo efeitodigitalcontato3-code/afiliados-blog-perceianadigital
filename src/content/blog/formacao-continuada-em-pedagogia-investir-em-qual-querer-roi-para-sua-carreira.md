@@ -2,7 +2,7 @@
 title: "Formação Continuada em Pedagogia: Investir em Qual Querer? (ROI para sua Carreira)"
 description: "Formação Continuada em Pedagogia: Investir em Qual Querer? (ROI para sua Carreira)"
 pubDate: "2026-07-13"
-heroImage: "/images/formacao-continuada-em-pedagogia-investir-em-qual-querer-roi-para-sua-carreira.jpg"
+heroImage: "/images/posts/formacao-continuada-em-pedagogia-investir-em-qual-querer-roi-para-sua-carreira.jpg"
 tags:
   - "pedagogia"
   - "formação continuada"
