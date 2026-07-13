@@ -2,7 +2,7 @@
 title: "Conheça a Educação de Qualidade: Indicadores e Métricas para Avaliar Instituições"
 description: "Conheça a Educação de Qualidade: Indicadores e Métricas para Avaliar Instituições"
 pubDate: "2026-07-13"
-heroImage: "/images/conheca-a-educacao-de-qualidade-indicadores-e-metricas-para-avaliar-instituicoes.jpg"
+heroImage: "/images/posts/conheca-a-educacao-de-qualidade-indicadores-e-metricas-para-avaliar-instituicoes.jpg"
 tags:
   - "educação"
   - "qualidade"
