@@ -2,7 +2,7 @@
 title: "A influência da cultura na educação: um olhar global sobre diferentes modelos."
 description: "A influência da cultura na educação: um olhar global sobre diferentes modelos."
 pubDate: "2026-07-13"
-heroImage: "/images/a-influencia-da-cultura-na-educacao-um-olhar-global-sobre-diferentes-modelos.jpg"
+heroImage: "/images/posts/a-influencia-da-cultura-na-educacao-um-olhar-global-sobre-diferentes-modelos.jpg"
 tags:
   - "colchão"
 ---
