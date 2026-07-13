@@ -2,7 +2,7 @@
 title: "Será que o Ensino Híbrido é o Modelo Definitivo? Análise Completa e Perspectivas"
 description: "Será que o Ensino Híbrido é o Modelo Definitivo? Análise Completa e Perspectivas"
 pubDate: "2026-07-13"
-heroImage: "/images/sera-que-o-ensino-hibrido-e-o-modelo-definitivo-analise-completa-e-perspectivas.jpg"
+heroImage: "/images/posts/sera-que-o-ensino-hibrido-e-o-modelo-definitivo-analise-completa-e-perspectivas.jpg"
 tags:
   - "ensino_hibrido"
   - "aprendizagem_digital"
