@@ -2,7 +2,7 @@
 title: "Adapte a educação para necessidades especiais: um manual para inclusão real."
 description: "A inclusão educacional de estudantes com necessidades especiais é um compromisso fundamental que exige adaptação e flexibilidade. Este guia detalhado oferece estratégias práticas para criar ambientes de aprendizagem inclusivos e preparar os alunos para o sucesso."
 pubDate: "2026-07-13"
-heroImage: "/images/adapte-a-educacao-para-necessidades-especiais-um-manual-para-inclusao-real.jpg"
+heroImage: "/images/posts/adapte-a-educacao-para-necessidades-especiais-um-manual-para-inclusao-real.jpg"
 tags:
   - "inclusão escolar"
   - "necessidades especiais"
