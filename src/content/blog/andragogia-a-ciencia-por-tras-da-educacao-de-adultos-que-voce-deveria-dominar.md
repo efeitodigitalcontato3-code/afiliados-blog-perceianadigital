@@ -2,7 +2,7 @@
 title: "Andragogia: a ciência por trás da educação de adultos que você deveria dominar."
 description: "Andragogia: a ciência por trás da educação de adultos que você deveria dominar."
 pubDate: "2026-07-13"
-heroImage: "/images/andragogia-a-ciencia-por-tras-da-educacao-de-adultos-que-voce-deveria-dominar.jpg"
+heroImage: "/images/posts/andragogia-a-ciencia-por-tras-da-educacao-de-adultos-que-voce-deveria-dominar.jpg"
 tags:
   - "colchão"
 ---
