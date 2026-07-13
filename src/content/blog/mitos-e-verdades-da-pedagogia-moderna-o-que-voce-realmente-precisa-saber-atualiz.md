@@ -2,7 +2,7 @@
 title: "Mitos e Verdades da Pedagogia Moderna: O Que Você Realmente Precisa Saber [Atualizado]"
 description: "Mitos e Verdades da Pedagogia Moderna: O Que Você Realmente Precisa Saber [Atualizado]"
 pubDate: "2026-07-13"
-heroImage: "/images/mitos-e-verdades-da-pedagogia-moderna-o-que-voce-realmente-precisa-saber-atualiz.jpg"
+heroImage: "/images/posts/mitos-e-verdades-da-pedagogia-moderna-o-que-voce-realmente-precisa-saber-atualiz.jpg"
 tags:
   - "pedagogia"
   - "ensino"
