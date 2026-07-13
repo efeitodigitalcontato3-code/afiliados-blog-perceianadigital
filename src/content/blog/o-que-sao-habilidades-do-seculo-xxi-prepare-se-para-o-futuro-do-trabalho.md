@@ -2,7 +2,7 @@
 title: "O que são Habilidades do Século XXI? Prepare-se para o Futuro do Trabalho"
 description: "O que são Habilidades do Século XXI? Prepare-se para o Futuro do Trabalho"
 pubDate: "2026-07-13"
-heroImage: "/images/o-que-sao-habilidades-do-seculo-xxi-prepare-se-para-o-futuro-do-trabalho.jpg"
+heroImage: "/images/posts/o-que-sao-habilidades-do-seculo-xxi-prepare-se-para-o-futuro-do-trabalho.jpg"
 tags:
   - "colchão"
 ---
