@@ -2,7 +2,7 @@
 title: "Prepare seu filho para o futuro: habilidades essenciais além do currículo."
 description: "Prepare seu filho para o futuro: habilidades essenciais além do currículo."
 pubDate: "2026-07-13"
-heroImage: "/images/prepare-seu-filho-para-o-futuro-habilidades-essenciais-alem-do-curriculo.jpg"
+heroImage: "/images/posts/prepare-seu-filho-para-o-futuro-habilidades-essenciais-alem-do-curriculo.jpg"
 tags:
   - "colchão"
 ---
