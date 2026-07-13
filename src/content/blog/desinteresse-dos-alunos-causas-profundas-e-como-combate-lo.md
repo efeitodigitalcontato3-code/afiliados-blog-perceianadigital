@@ -2,7 +2,7 @@
 title: "Desinteresse dos alunos: causas profundas e como combatê-lo."
 description: "Desinteresse dos alunos: causas profundas e como combatê-lo."
 pubDate: "2026-07-13"
-heroImage: "/images/desinteresse-dos-alunos-causas-profundas-e-como-combate-lo.jpg"
+heroImage: "/images/posts/desinteresse-dos-alunos-causas-profundas-e-como-combate-lo.jpg"
 tags:
   - "colchão"
 ---
