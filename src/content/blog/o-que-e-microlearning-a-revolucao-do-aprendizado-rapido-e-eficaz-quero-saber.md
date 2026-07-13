@@ -2,7 +2,7 @@
 title: "O que é Microlearning? A Revolução do Aprendizado Rápido e Eficaz (Quero Saber)"
 description: "O que é Microlearning? A Revolução do Aprendizado Rápido e Eficaz (Quero Saber)"
 pubDate: "2026-07-13"
-heroImage: "/images/o-que-e-microlearning-a-revolucao-do-aprendizado-rapido-e-eficaz-quero-saber.jpg"
+heroImage: "/images/posts/o-que-e-microlearning-a-revolucao-do-aprendizado-rapido-e-eficaz-quero-saber.jpg"
 tags:
   - "Microlearning"
   - "Aprendizado"
