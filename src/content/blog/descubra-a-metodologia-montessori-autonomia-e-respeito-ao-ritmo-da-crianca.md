@@ -2,7 +2,7 @@
 title: "Descubra a Metodologia Montessori: Autonomia e Respeito ao Ritmo da Criança"
 description: "Descubra a Metodologia Montessori: Autonomia e Respeito ao Ritmo da Criança"
 pubDate: "2026-07-13"
-heroImage: "/images/descubra-a-metodologia-montessori-autonomia-e-respeito-ao-ritmo-da-crianca.jpg"
+heroImage: "/images/posts/descubra-a-metodologia-montessori-autonomia-e-respeito-ao-ritmo-da-crianca.jpg"
 tags:
   - "colchão"
 ---
