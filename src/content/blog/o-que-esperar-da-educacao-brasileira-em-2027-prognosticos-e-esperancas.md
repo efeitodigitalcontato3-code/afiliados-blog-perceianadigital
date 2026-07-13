@@ -2,7 +2,7 @@
 title: "O que esperar da educação brasileira em 2027? Prognósticos e esperanças."
 description: "O que esperar da educação brasileira em 2027? Prognósticos e esperanças."
 pubDate: "2026-07-13"
-heroImage: "/images/o-que-esperar-da-educacao-brasileira-em-2027-prognosticos-e-esperancas.jpg"
+heroImage: "/images/posts/o-que-esperar-da-educacao-brasileira-em-2027-prognosticos-e-esperancas.jpg"
 tags:
   - "educação"
   - "futuro"
