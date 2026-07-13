@@ -2,7 +2,7 @@
 title: "Entenda as Modalidades de Ensino: Presencial, EAD e Híbrido – Qual se Adapta Melhor a Você?"
 description: "Entenda as Modalidades de Ensino: Presencial, EAD e Híbrido – Qual se Adapta Melhor a Você?"
 pubDate: "2026-07-13"
-heroImage: "/images/entenda-as-modalidades-de-ensino-presencial-ead-e-hibrido-qual-se-adapta-melhor-.jpg"
+heroImage: "/images/posts/entenda-as-modalidades-de-ensino-presencial-ead-e-hibrido-qual-se-adapta-melhor-.jpg"
 tags:
   - "colchão"
 ---
