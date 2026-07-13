@@ -2,7 +2,7 @@
 title: "Desvende os Benefícios da Educação Bilíngue para o Desenvolvimento Infantil"
 description: "Desvende os Benefícios da Educação Bilíngue para o Desenvolvimento Infantil"
 pubDate: "2026-07-13"
-heroImage: "/images/desvende-os-beneficios-da-educacao-bilingue-para-o-desenvolvimento-infantil.jpg"
+heroImage: "/images/posts/desvende-os-beneficios-da-educacao-bilingue-para-o-desenvolvimento-infantil.jpg"
 tags:
   - "educação bilíngue"
   - "idiomas"
