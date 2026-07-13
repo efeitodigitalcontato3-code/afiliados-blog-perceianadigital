@@ -2,7 +2,7 @@
 title: "Conecte-se com o Saber: A Importância da Educação Continuada para a Vida Adulta"
 description: "Conecte-se com o Saber: A Importância da Educação Continuada para a Vida Adulta"
 pubDate: "2026-07-13"
-heroImage: "/images/conecte-se-com-o-saber-a-importancia-da-educacao-continuada-para-a-vida-adulta.jpg"
+heroImage: "/images/posts/conecte-se-com-o-saber-a-importancia-da-educacao-continuada-para-a-vida-adulta.jpg"
 tags:
   - "educação continuada"
   - "aprendizagem"
