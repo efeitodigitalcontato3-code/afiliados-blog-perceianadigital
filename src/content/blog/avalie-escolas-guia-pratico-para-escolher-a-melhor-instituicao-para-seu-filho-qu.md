@@ -2,7 +2,7 @@
 title: "Avalie Escolas: Guia Prático para Escolher a Melhor Instituição para Seu Filho (Quero Comprar)"
 description: "Avalie Escolas: Guia Prático para Escolher a Melhor Instituição para Seu Filho (Quero Comprar)"
 pubDate: "2026-07-13"
-heroImage: "/images/avalie-escolas-guia-pratico-para-escolher-a-melhor-instituicao-para-seu-filho-qu.jpg"
+heroImage: "/images/posts/avalie-escolas-guia-pratico-para-escolher-a-melhor-instituicao-para-seu-filho-qu.jpg"
 tags:
   - "escola"
   - "ensino"
