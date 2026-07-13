@@ -2,7 +2,7 @@
 title: "Priorize a educação: por que ela é o melhor investimento que você fará."
 description: "Priorize a educação: por que ela é o melhor investimento que você fará."
 pubDate: "2026-07-13"
-heroImage: "/images/priorize-a-educacao-por-que-ela-e-o-melhor-investimento-que-voce-fara.jpg"
+heroImage: "/images/posts/priorize-a-educacao-por-que-ela-e-o-melhor-investimento-que-voce-fara.jpg"
 tags:
   - "colchão"
 ---
