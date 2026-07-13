@@ -2,7 +2,7 @@
 title: "O que é Lifelong Learning? A Necessidade de Aprender Constantemente (Quero Saber)"
 description: "O que é Lifelong Learning? A Necessidade de Aprender Constantemente (Quero Saber)"
 pubDate: "2026-07-13"
-heroImage: "/images/o-que-e-lifelong-learning-a-necessidade-de-aprender-constantemente-quero-saber.jpg"
+heroImage: "/images/posts/o-que-e-lifelong-learning-a-necessidade-de-aprender-constantemente-quero-saber.jpg"
 tags:
   - "colchão"
 ---
