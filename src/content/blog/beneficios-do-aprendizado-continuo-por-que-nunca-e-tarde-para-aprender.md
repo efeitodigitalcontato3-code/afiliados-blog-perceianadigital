@@ -2,7 +2,7 @@
 title: "Benefícios do aprendizado contínuo: por que nunca é tarde para aprender."
 description: "Benefícios do aprendizado contínuo: por que nunca é tarde para aprender."
 pubDate: "2026-07-13"
-heroImage: "/images/beneficios-do-aprendizado-continuo-por-que-nunca-e-tarde-para-aprender.jpg"
+heroImage: "/images/posts/beneficios-do-aprendizado-continuo-por-que-nunca-e-tarde-para-aprender.jpg"
 tags:
   - "aprendizado"
   - "desenvolvimento pessoal"
