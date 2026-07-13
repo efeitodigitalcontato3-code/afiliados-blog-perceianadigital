@@ -2,7 +2,7 @@
 title: "A Era da Personalização: Ensino Adaptado às Necessidades de Cada Aluno"
 description: "A Era da Personalização: Ensino Adaptado às Necessidades de Cada Aluno"
 pubDate: "2026-07-13"
-heroImage: "/images/a-era-da-personalizacao-ensino-adaptado-as-necessidades-de-cada-aluno.jpg"
+heroImage: "/images/posts/a-era-da-personalizacao-ensino-adaptado-as-necessidades-de-cada-aluno.jpg"
 tags:
   - "ensino personalizado"
   - "educação adaptativa"
