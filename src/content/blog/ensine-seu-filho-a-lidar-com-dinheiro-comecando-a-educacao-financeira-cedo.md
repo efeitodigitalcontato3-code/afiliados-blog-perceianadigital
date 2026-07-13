@@ -2,7 +2,7 @@
 title: "Ensine seu filho a lidar com dinheiro: começando a educação financeira cedo."
 description: "Ensine seu filho a lidar com dinheiro: começando a educação financeira cedo."
 pubDate: "2026-07-13"
-heroImage: "/images/ensine-seu-filho-a-lidar-com-dinheiro-comecando-a-educacao-financeira-cedo.jpg"
+heroImage: "/images/posts/ensine-seu-filho-a-lidar-com-dinheiro-comecando-a-educacao-financeira-cedo.jpg"
 tags:
   - "colchão"
 ---
