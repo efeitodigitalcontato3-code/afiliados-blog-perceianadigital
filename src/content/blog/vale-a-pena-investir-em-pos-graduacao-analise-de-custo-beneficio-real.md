@@ -2,7 +2,7 @@
 title: "Vale a pena investir em pós-graduação? Análise de custo-benefício real."
 description: "Vale a pena investir em pós-graduação? Análise de custo-benefício real."
 pubDate: "2026-07-13"
-heroImage: "/images/vale-a-pena-investir-em-pos-graduacao-analise-de-custo-beneficio-real.jpg"
+heroImage: "/images/posts/vale-a-pena-investir-em-pos-graduacao-analise-de-custo-beneficio-real.jpg"
 tags:
   - "pós-graduação"
   - "desenvolvimento profissional"
