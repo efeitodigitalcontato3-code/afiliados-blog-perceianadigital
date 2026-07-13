@@ -2,7 +2,7 @@
 title: "O Papel do Professor no Século XXI: De Transmissor a Facilitador do Conhecimento"
 description: "O Papel do Professor no Século XXI: De Transmissor a Facilitador do Conhecimento"
 pubDate: "2026-07-13"
-heroImage: "/images/o-papel-do-professor-no-seculo-xxi-de-transmissor-a-facilitador-do-conhecimento.jpg"
+heroImage: "/images/posts/o-papel-do-professor-no-seculo-xxi-de-transmissor-a-facilitador-do-conhecimento.jpg"
 tags:
   - "educação"
   - "professor"
