@@ -2,7 +2,7 @@
 title: "Qualidade do ensino superior: um ranking das melhores instituições (análise)."
 description: "Qualidade do ensino superior: um ranking das melhores instituições (análise)."
 pubDate: "2026-07-13"
-heroImage: "/images/qualidade-do-ensino-superior-um-ranking-das-melhores-instituicoes-analise.jpg"
+heroImage: "/images/posts/qualidade-do-ensino-superior-um-ranking-das-melhores-instituicoes-analise.jpg"
 tags:
   - "ensino superior"
   - "qualidade de ensino"
