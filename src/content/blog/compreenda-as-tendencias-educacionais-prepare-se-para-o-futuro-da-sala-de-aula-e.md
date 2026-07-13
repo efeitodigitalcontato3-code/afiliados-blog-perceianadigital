@@ -2,7 +2,7 @@
 title: "Compreenda as Tendências Educacionais: Prepare-se para o Futuro da Sala de Aula (Edição 2026)"
 description: "Compreenda as Tendências Educacionais: Prepare-se para o Futuro da Sala de Aula (Edição 2026)"
 pubDate: "2026-07-13"
-heroImage: "/images/compreenda-as-tendencias-educacionais-prepare-se-para-o-futuro-da-sala-de-aula-e.jpg"
+heroImage: "/images/posts/compreenda-as-tendencias-educacionais-prepare-se-para-o-futuro-da-sala-de-aula-e.jpg"
 tags:
   - "educação"
   - "tecnologia"
