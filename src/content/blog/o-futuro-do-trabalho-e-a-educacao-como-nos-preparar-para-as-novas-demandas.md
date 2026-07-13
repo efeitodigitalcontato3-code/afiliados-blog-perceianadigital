@@ -2,7 +2,7 @@
 title: "O futuro do trabalho e a educação: como nos preparar para as novas demandas."
 description: "O futuro do trabalho e a educação: como nos preparar para as novas demandas."
 pubDate: "2026-07-13"
-heroImage: "/images/o-futuro-do-trabalho-e-a-educacao-como-nos-preparar-para-as-novas-demandas.jpg"
+heroImage: "/images/posts/o-futuro-do-trabalho-e-a-educacao-como-nos-preparar-para-as-novas-demandas.jpg"
 tags:
   - "futuro do trabalho"
   - "educação"
