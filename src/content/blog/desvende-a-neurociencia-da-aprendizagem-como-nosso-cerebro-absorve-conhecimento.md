@@ -2,7 +2,7 @@
 title: "Desvende a Neurociência da Aprendizagem: Como Nosso Cérebro Absorve Conhecimento"
 description: "Desvende a Neurociência da Aprendizagem: Como Nosso Cérebro Absorve Conhecimento"
 pubDate: "2026-07-13"
-heroImage: "/images/desvende-a-neurociencia-da-aprendizagem-como-nosso-cerebro-absorve-conhecimento.jpg"
+heroImage: "/images/posts/desvende-a-neurociencia-da-aprendizagem-como-nosso-cerebro-absorve-conhecimento.jpg"
 tags:
   - "colchão"
 ---
