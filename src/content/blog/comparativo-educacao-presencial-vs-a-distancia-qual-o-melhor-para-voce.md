@@ -2,7 +2,7 @@
 title: "Comparativo: educação presencial vs. a distância – qual o melhor para você?"
 description: "Comparativo: educação presencial vs. a distância – qual o melhor para você?"
 pubDate: "2026-07-13"
-heroImage: "/images/comparativo-educacao-presencial-vs-a-distancia-qual-o-melhor-para-voce.jpg"
+heroImage: "/images/posts/comparativo-educacao-presencial-vs-a-distancia-qual-o-melhor-para-voce.jpg"
 tags:
   - "educação"
   - "ensino"
