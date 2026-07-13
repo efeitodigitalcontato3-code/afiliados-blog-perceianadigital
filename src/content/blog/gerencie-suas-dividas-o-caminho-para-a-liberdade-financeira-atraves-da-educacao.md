@@ -2,7 +2,7 @@
 title: "Gerencie suas dívidas: o caminho para a liberdade financeira através da educação."
 description: "Gerencie suas dívidas: o caminho para a liberdade financeira através da educação."
 pubDate: "2026-07-13"
-heroImage: "/images/gerencie-suas-dividas-o-caminho-para-a-liberdade-financeira-atraves-da-educacao.jpg"
+heroImage: "/images/posts/gerencie-suas-dividas-o-caminho-para-a-liberdade-financeira-atraves-da-educacao.jpg"
 tags:
   - "finanças pessoais"
   - "gestão de dívidas"
