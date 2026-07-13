@@ -2,7 +2,7 @@
 title: "O que a BNCC significa para a educação do seu filho?"
 description: "O que a BNCC significa para a educação do seu filho?"
 pubDate: "2026-07-13"
-heroImage: "/images/o-que-a-bncc-significa-para-a-educacao-do-seu-filho.jpg"
+heroImage: "/images/posts/o-que-a-bncc-significa-para-a-educacao-do-seu-filho.jpg"
 tags:
   - "BNCC"
   - "Educação Infantil"
