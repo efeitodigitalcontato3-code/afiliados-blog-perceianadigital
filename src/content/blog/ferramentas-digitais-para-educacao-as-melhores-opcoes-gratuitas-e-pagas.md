@@ -2,7 +2,7 @@
 title: "Ferramentas digitais para educação: as melhores opções gratuitas e pagas."
 description: "Ferramentas digitais para educação: as melhores opções gratuitas e pagas."
 pubDate: "2026-07-13"
-heroImage: "/images/ferramentas-digitais-para-educacao-as-melhores-opcoes-gratuitas-e-pagas.jpg"
+heroImage: "/images/posts/ferramentas-digitais-para-educacao-as-melhores-opcoes-gratuitas-e-pagas.jpg"
 tags:
   - "colchão"
 ---
