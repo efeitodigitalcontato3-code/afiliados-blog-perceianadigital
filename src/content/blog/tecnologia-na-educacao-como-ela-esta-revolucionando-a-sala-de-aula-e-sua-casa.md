@@ -2,7 +2,7 @@
 title: "Tecnologia na educação: como ela está revolucionando a sala de aula (e sua casa)."
 description: "Tecnologia na educação: como ela está revolucionando a sala de aula (e sua casa)."
 pubDate: "2026-07-13"
-heroImage: "/images/tecnologia-na-educacao-como-ela-esta-revolucionando-a-sala-de-aula-e-sua-casa.jpg"
+heroImage: "/images/posts/tecnologia-na-educacao-como-ela-esta-revolucionando-a-sala-de-aula-e-sua-casa.jpg"
 tags:
   - "tecnologia em educação"
   - "ensino digital"
